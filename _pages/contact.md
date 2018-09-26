@@ -8,10 +8,10 @@ modified: 2018-09-09T00:00:13+10:00
 Contact information for Ridouan Bani.
 ------
 
-* Department of Biology
-  McGill University
+* Room N4/17,Department of Biology,
+  McGill University,
  1205 Docteur Penfield avenue
- Montreal, Quebec, H3A1B1: [Staff Profile](https://staffprofile.usq.edu.au/Profile/Adam-Sparks)
+ Montreal, Quebec, H3A1B1
 
 * E-mail: [ridouan.bani@mail.mcgill.ca](ridouan.bani@mail.mcgill.ca) or [rbani20@gmail.com](rbani20@gmail.com)
 
