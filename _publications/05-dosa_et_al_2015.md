@@ -1,15 +1,14 @@
 ---
-title: "Decision tools for bacterial blight resistance gene deployment in rice-based agricultural ecosystems"
+title: "Influence of environmental factors on college alcohol drinking patternss"
 collection: publications
-permalink: /publication/2015/05/05-dosa_et_al_2015
-excerpt: 'Attempting to achieve long-lasting and stable resistance using uniformly deployed rice varieties is not a sustainable approach. The real situation appears to be much more complex and dynamic, one in which pathogens quickly adapt to resistant varieties. To prevent disease epidemics, deployment should be customized and this decision will require interdisciplinary actions. This perspective article aims to highlight the current progress on disease resistance deployment to control bacterial blight in rice. Although the model system rice \textit{Xanthomonas oryzae} pv. \textit{oryzae} has distinctive features that underpin the need for a case-by-case analysis, strategies to integrate those elements into a unique decision tool could be easily extended to other crops.'
-date: 2015/05/05
-venue: 'Frontiers in Plant Science'
-paperurl: 'fpls-06-00305.pdf'
-citation: 'Decision tools for bacterial blight resistance gene deployment in rice-based agricultural ecosystems. S G Dossa, A H Sparks, C M Vera Cruz, R Oliva. <i>Frontiers in Plant Science</i> 6.305 (May 2015). DOI: 10.3389/ fpls.2015.00305'
+permalink: /publication/2013/02-Bani_etal2014
+
+date: 2013
+venue: 'MATHEMATICAL BIOSCIENCES AND ENGINEERING'
+citation: 'Bani, R., Hameed, R., Szymanowski, S., Greenwood, P., Kribs-Zaleta, C., & Mubayi, A. (2013). Influence of environmental factors on college alcohol drinking patterns. Mathematical Bioscience and Engineering, 10, 1281-1300.'
 ---
-Attempting to achieve long-lasting and stable resistance using uniformly deployed rice varieties is not a sustainable approach. The real situation appears to be much more complex and dynamic, one in which pathogens quickly adapt to resistant varieties. To prevent disease epidemics, deployment should be customized and this decision will require interdisciplinary actions. This perspective article aims to highlight the current progress on disease resistance deployment to control bacterial blight in rice. Although the model system rice \textit{Xanthomonas oryzae} pv. \textit{oryzae} has distinctive features that underpin the need for a case-by-case analysis, strategies to integrate those elements into a unique decision tool could be easily extended to other crops.
+Abstract: Alcohol abuse is a major problem, especially among students on and around college campuses. We use the mathematical framework of [16] and study the role of environmental factors on the long term dynamics of an alcohol drinking population. Sensitivity and uncertainty analyses are carried out on the relevant functions (for example, on the drinking reproduction number and the extinction time of moderate and heavy drinking because of interventions) to understand the impact of environmental interventions on the distributions of drinkers. The reproduction number helps determine whether or not the high-risk alcohol drinking behavior will spread and become persistent in the population, whereas extinction time of high-risk drinking measures the effectiveness of control programs. We found that the reproduction number is most sensitive to social interactions, while the time to extinction of high-risk drinkers is significantly sensitive to the intervention programs that reduce initiation, and the college drop-out rate. The results also suggest that in a population, higher rates of intervention programs in low-risk environments (more than intervention rates in high-risk environments) are needed to reduce heavy drinking in the population.
 
-[Download paper here](fpls-06-00305.pdf)
+[Download paper here](https://www.researchgate.net/profile/Ridouan_Bani/publication/256455411_INFLUENCE_OF_ENVIRONMENTAL_FACTORS_ON_COLLEGE_ALCOHOL_DRINKING_PATTERNS/links/02e7e522bb118a0088000000/INFLUENCE-OF-ENVIRONMENTAL-FACTORS-ON-COLLEGE-ALCOHOL-DRINKING-PATTERNS.pdf)
 
-Recommended citation: Decision tools for bacterial blight resistance gene deployment in rice-based agricultural ecosystems. S G Dossa, A H Sparks, C M Vera Cruz, R Oliva. <i>Frontiers in Plant Science</i> 6.305 (May 2015). DOI: 10.3389/ fpls.2015.00305
+Recommended citation: Bani, R., Hameed, R., Szymanowski, S., Greenwood, P., Kribs-Zaleta, C., & Mubayi, A. (2013). Influence of environmental factors on college alcohol drinking patterns. Mathematical Bioscience and Engineering, 10, 1281-1300.
