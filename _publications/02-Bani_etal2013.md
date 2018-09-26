@@ -2,7 +2,7 @@
 title: "Influence of environmental factors on college alcohol drinking patterns"
 collection: publications
 permalink: /publication/2013/02-Bani_etal2013
-
+excerpt: 'Dispersal traits interact with dynamic connectivity to affect metapopulation growth and stability. '
 date: 2013
 venue: 'MATHEMATICAL BIOSCIENCES AND ENGINEERING'
 citation: 'Bani, R., Hameed, R., Szymanowski, S., Greenwood, P., Kribs-Zaleta, C., & Mubayi, A. (2013). Influence of environmental factors on college alcohol drinking patterns. Mathematical Bioscience and Engineering, 10, 1281-1300.'
