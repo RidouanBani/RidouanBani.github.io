@@ -1,5 +1,5 @@
 ---
-title: "Influence of environmental factors on college alcohol drinking patternss"
+title: "Influence of environmental factors on college alcohol drinking patterns"
 collection: publications
 permalink: /publication/2013/02-Bani_etal2013
 
