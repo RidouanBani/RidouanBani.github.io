@@ -8,8 +8,7 @@ modified: 2018-09-09T00:00:13+10:00
 Contact information for Ridouan Bani.
 ------
 
-* Room N4/17,Department of Biology,
-  McGill University,
+* N4/17 Stewart Biology Building,
  1205 Docteur Penfield avenue
  Montreal, Quebec, H3A1B1
 
