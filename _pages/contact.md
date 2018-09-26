@@ -2,18 +2,21 @@
 permalink: /contact/
 title: "Contact"
 excerpt: "Contact me"
-modified: 2017-05-08T05:17:13+10:00
+modified: 2018-09-09T00:00:13+10:00
 ---
 
-Contact information for Adam H Sparks.
+Contact information for Ridouan Bani.
 ------
 
-* University of Southern Queensland, Centre for Crop Health: [Staff Profile](https://staffprofile.usq.edu.au/Profile/Adam-Sparks)
+* Department of Biology
+  McGill University
+ 1205 Docteur Penfield avenue
+ Montreal, Quebec, H3A1B1: [Staff Profile](https://staffprofile.usq.edu.au/Profile/Adam-Sparks)
 
-* E-mail: [adam.sparks@usq.edu.au](adam.sparks@usq.edu.au) or [adamhsparks@gmail.com](adamhsparks@gmail.com)
-* Phone: +6141311948
+* E-mail: [ridouan.bani@mail.mcgill.ca](ridouan.bani@mail.mcgill.ca) or [rbani20@gmail.com](rbani20@gmail.com)
+#* Phone: +6141311948
 
-* Twitter: [adamhsparks](http://twitter.com/adamhsparks)
-* Google Scholar: [author:adam-h-sparks](https://scholar.google.com.au/citations?user=TQQzkCwAAAAJ&hl=en)
-* Research Gate: [Adam Henry Sparks](https://www.researchgate.net/profile/Adam_Sparks2)
-* LinkedIn: [adamhsparks](http://www.linkedin.com/in/adamhsparks)
+#* Twitter: [rbani5](http://twitter.com/rbani5)
+#* Google Scholar: [author:Ridouan Bani](https://scholar.google.ca/citations?user=WColvYYAAAAJ&hl=en&oi=ao)
+#* Research Gate: [Ridouan Bani](https://www.researchgate.net/profile/Ridouan_Bani)
+#* LinkedIn: [Ridouan Bani](https://ca.linkedin.com/in/ridouan-bani-291a5664)
