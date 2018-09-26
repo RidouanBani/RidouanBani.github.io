@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Ecologist interested in understanding the causes and sources of biological patterns and how they change across different organismal, spatial and temporal scales;  organizmal (from an individual cell to meta-ecosystem), spatial (from local to global scale), and temporal (from ecological to evolutionary time scale).
+In General, I am an Mathematician/Theoretical Ecologist interested in understanding the causes and sources of biological patterns and how they change across different organismal, spatial and temporal scales;  organizmal (from an individual cell to meta-ecosystem), spatial (from local to global scale), and temporal (from ecological to evolutionary time scale).
 
 
 Education
@@ -27,23 +27,8 @@ McGill Univerity, Montreal, Qc, CANADA
 During my master program at Northeastern Illinois University where I worked with Prof. Anuj Mubayi (Currently Professor of applied mathematics in the school of human Evolution at Arizona State University), I was involved in multiple projects; the goal of these projects is to explore different mathematical and statistical methods used in the modeling of public health problems.
 
 **2012** *B.Sc. Interisciplinary Studies & Mathematics* NorthEasternIllinois University, Chicago, Illinois, USA
+**2008** *Agrégation de Mathématiques* Ecole Normale Supérieure (ENS) de Marrakech, Marrakech, Maroc.
+**2005** *Mathématiques & Physiques* Classes Preparatoires aux Grandes Ecoles d'Ingenieurs (CPGE) de Meknès
 
 
 
-Expertise
-------
-
-Spatial modelling and mapping of plant diseases
-
-The effects of climate change on plant diseases
-
-Developing integrated disease management strategies
-
-Research Areas
-------
-
-Pathogens of broadacre crops
-
-Tropical rice disease management
-
-Modelling and simulating crop disease epidemics
