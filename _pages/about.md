@@ -27,7 +27,9 @@ McGill Univerity, Montreal, Qc, CANADA
 During my master program at Northeastern Illinois University where I worked with Prof. Anuj Mubayi (Currently Professor of applied mathematics in the school of human Evolution at Arizona State University), I was involved in multiple projects; the goal of these projects is to explore different mathematical and statistical methods used in the modeling of public health problems.
 
 **2012** *B.Sc. Interisciplinary Studies & Mathematics* NorthEasternIllinois University, Chicago, Illinois, USA
+
 **2008** *Agrégation de Mathématiques* Ecole Normale Supérieure (ENS) de Marrakech, Marrakech, Maroc.
+
 **2005** *Mathématiques & Physiques* Classes Preparatoires aux Grandes Ecoles d'Ingenieurs (CPGE) de Meknès
 
 
