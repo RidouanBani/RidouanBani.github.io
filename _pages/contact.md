@@ -14,9 +14,8 @@ Contact information for Ridouan Bani.
  Montreal, Quebec, H3A1B1: [Staff Profile](https://staffprofile.usq.edu.au/Profile/Adam-Sparks)
 
 * E-mail: [ridouan.bani@mail.mcgill.ca](ridouan.bani@mail.mcgill.ca) or [rbani20@gmail.com](rbani20@gmail.com)
-#* Phone: +6141311948
 
-#* Twitter: [rbani5](http://twitter.com/rbani5)
-#* Google Scholar: [author:Ridouan Bani](https://scholar.google.ca/citations?user=WColvYYAAAAJ&hl=en&oi=ao)
-#* Research Gate: [Ridouan Bani](https://www.researchgate.net/profile/Ridouan_Bani)
-#* LinkedIn: [Ridouan Bani](https://ca.linkedin.com/in/ridouan-bani-291a5664)
+* Twitter: [rbani5](http://twitter.com/rbani5)
+* Google Scholar: [author:Ridouan Bani](https://scholar.google.ca/citations?user=WColvYYAAAAJ&hl=en&oi=ao)
+* Research Gate: [Ridouan Bani](https://www.researchgate.net/profile/Ridouan_Bani)
+* LinkedIn: [Ridouan Bani](https://ca.linkedin.com/in/ridouan-bani-291a5664)
