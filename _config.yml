@@ -95,7 +95,7 @@ author:
   github           : "RidouanBani"
   google_plus      :
   keybase          :
-  instagram        :
+  researchgate     : "https://www.researchgate.net/profile/Ridouan_Bani"
   lastfm           :
   linkedin         : "https://ca.linkedin.com/in/ridouan-bani-291a5664"
   orcid            : " https://orcid.org/0000-0002-8695-1151"
@@ -169,13 +169,13 @@ kramdown:
 
 # Collections
 collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
