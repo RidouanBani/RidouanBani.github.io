@@ -1,7 +1,7 @@
 ---
 title: "Influence of environmental factors on college alcohol drinking patternss"
 collection: publications
-permalink: /publication/2013/02-Bani_etal2014
+permalink: /publication/2013/02-Bani_etal2013
 
 date: 2013
 venue: 'MATHEMATICAL BIOSCIENCES AND ENGINEERING'
