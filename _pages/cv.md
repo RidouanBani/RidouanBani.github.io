@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Ridouan Bani CV"
-permalink: /CV/
+permalink: /CV
 author_profile: true
 redirect_from:
   - /CV
@@ -39,10 +39,14 @@ Work experience
 
 
 
-Skills
+Computational Skills
 ======
 
-**COMING SOON, In PROGRESS ...**
+Operating systems  : Windows, MacOS, Linux
+
+Languages          : MatLab, R, MiniTab , Python (Pandas, SQLAlchemy), C++, LeTex
+
+Parallel computing : MPI, openMPI, MatLab, R
 
 
 Publications
@@ -69,4 +73,10 @@ Service and leadership
 Languages
 =========
 
-**COMING SOON, In PROGRESS ...**
+English: highly proficient in spoken and written 
+
+French: highly proficient in spoken and written 
+
+Tamazight: native speaker 
+
+Arabic: highly proficient in spoken and written
