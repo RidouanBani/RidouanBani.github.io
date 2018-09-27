@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Ridouan Bani CV"
-permalink: /CV/
+permalink: /cv/
 author_profile: true
 redirect_from:
-  - /CV
+  - /cv
 ---
 
 {% include base_path %}
