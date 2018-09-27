@@ -51,6 +51,5 @@ Talks
 Service and leadership
 ======
 
-**COMING SOON, In PROGRESS ...**
 
 
