@@ -13,10 +13,6 @@ My full CV is available as a [**PDF file**](https://github.com/RidouanBani/Ridou
 
 Education
 ======
-
-Education
-------
-
 **Present** *Ph.D. Candidate, Biology*
 McGill Univerity, Montreal, Qc, CANADA
 
@@ -84,10 +80,10 @@ Service and leadership
 Languages
 =========
 
-English: highly proficient in spoken and written 
+English   : highly proficient in spoken and written 
 
-French: highly proficient in spoken and written 
+French    : highly proficient in spoken and written 
 
-Tamazight: native speaker 
+Tamazight : native speaker 
 
-Arabic: highly proficient in spoken and written
+Arabic    : highly proficient in spoken and written
