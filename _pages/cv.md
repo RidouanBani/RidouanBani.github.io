@@ -9,72 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV is available as a [**PDF file**](https://github.com/adamhsparks/AHSparks_CV/raw/master/AHSparks_CV.pdf) and also in a shorter [**two page PDF file**](https://github.com/adamhsparks/AHSparks_CV/raw/master/AHSparks_2_Page_CV.pdf)
+My full CV is available as a [**PDF file**](https://github.com/RidouanBani/RidouanBani.github.io/_pages//Ridouan_Bani_CV.pdf).
 
 Education
 ======
 
-**2009** *Ph.D. Plant Pathology*
+Education
+------
 
-Kansas State University, Manhattan, Kansas, USA
+**Present** *Ph.D. Candidate, Biology*
+McGill Univerity, Montreal, Qc, CANADA
 
-Epidemiology and Ecology of Plant Pathogens
 
-**Dissertation:** [Disease risk mapping with metamodels for coarse resolution
-predictors: global potato late blight risk now and under future climate conditions](https://github.com/adamhsparks/Global-Late-Blight-MetaModelling)
+**Dissertation:** Dynamic connectivity: Consequences of climate change and application to marine protected areas.
+ 
+ The aim of my PhD thesis is to understand the implications of stochastic dispersal on marine metapopulations and its applications to marine protected areas. In general, my thesis involves building realistic mathematical models, analytically derive important metrics, using available biophysical big data and high-power computing machine to test, refine then validate with results
+ 
+**2013** *M.Sc. Applied Mathematics* NorthEasternIllinois University, Chicago, Illinois, USA
 
-**2007** *Post Graduate Certiﬁcate Geography*
+During my master program at Northeastern Illinois University where I worked with Prof. Anuj Mubayi (Currently Professor of applied mathematics in the school of human Evolution at Arizona State University), I was involved in multiple projects; the goal of these projects is to explore different mathematical and statistical methods used in the modeling of public health problems.
 
-Kansas State University, Manhattan, Kansas, USA
+**2012** *B.Sc. Interisciplinary Studies & Mathematics* NorthEasternIllinois University, Chicago, Illinois, USA
 
-Geographic Information Science
+**2008** *Agrégation de Mathématiques* Ecole Normale Supérieure (ENS) de Marrakech, Marrakech, Maroc.
 
-**2000** *B.Sc. Agronomy*
-
-Purdue University, West Lafayette, Indiana, USA
-
-Soil and Crop Management
-
+**2005** *Mathématiques & Physiques* Classes Preparatoires aux Grandes Ecoles d'Ingenieurs (CPGE) de Meknès
 Work experience
 ======
 
-* 2016 - present: Associate Professor
-
-  * University of Southern Queensland, Centre for Crop Health
-
-  * Toowoomba, Queensland, AUS
-
-* 2012 - 2015: Scientist I
-
-  * International Rice Research Institute
-
-  * Los Baños, Calabarzon, PHL
-
-* 2011 - 2012: Postdoctoral Research Fellow
-
-  * International Rice Research Institute
-
-  * Los Baños, Calabarzon, PHL
-
-  * Supervisors: Serge Savary and Andy Nelson
-
-* 2009 - 2010: Postdoctoral Research Assistant
-*
-  * Kansas State University
-  *
-  * Manhattan, Kansas, USA
-  *
-  * Supervisor: Erick De Wolf
 
 
 Skills
 ======
 
-* GIS
+**COMING SOON, In PROGRESS ...**
 
-* R programming
-
-* Modelling
 
 Publications
 ======
@@ -94,6 +63,10 @@ Talks
 Service and leadership
 ======
 
-* International Congress of Plant Pathology (ICPP) 2018 Epidemiology Committee
+**COMING SOON, In PROGRESS ...**
 
-* Section Editor Tropical Plant Pathology
+
+Languages
+=========
+
+**COMING SOON, In PROGRESS ...**
