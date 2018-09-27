@@ -1,5 +1,5 @@
 ---
-title: "Research item number 1"
+title: "Ongoing: Dynamic connectivity: Viability Analysis"
 excerpt: "Short description of research item number 1<br/><img src='/images/500x300.png'>"
 collection: Portfolio
 ---
