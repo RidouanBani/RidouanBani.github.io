@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Adam H Sparks CV"
+title: "Ridouan Bani CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
