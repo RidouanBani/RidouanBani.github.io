@@ -66,7 +66,9 @@ Workshops
 
 •	Stochastic Modeling of Biological Processes. Institute for Mathematics and its Applications (IMA), University of Minnesota, May 12-17, 2013.
 
-•	SAMSI-SAVI workshop on environmental statistics, March 4-6, 2013. 1st Workshop on mathematical & statistical modeling with application in epidemiology and finance, Northeastern Illinois University, December 14-16, 2012.
+•	SAMSI-SAVI workshop on environmental statistics, March 4-6, 2013
+
+. 1st Workshop on mathematical & statistical modeling with application in epidemiology and finance, Northeastern Illinois University, December 14-16, 2012.
 
 
 Service and leadership
