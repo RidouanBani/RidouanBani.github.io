@@ -32,29 +32,6 @@ During my master program at Northeastern Illinois University where I worked with
 **2005** *Mathématiques & Physiques* Classes Preparatoires aux Grandes Ecoles d'Ingenieurs (CPGE) de Meknès
 
 
-Work experience
-======
-
-**In Progress... Coming Soon**
-
-Workshops
-========
-
-The 2013 Industrial Mathematical and Statistical Modeling Workshop for Graduate Students, North Carolina State University, July 15-23, 2013.
-
-Stochastic Modeling of Biological Processes. Institute for Mathematics and its Applications (IMA), University of Minnesota, May 12-17, 2013.
-
-SAMSI-SAVI workshop on environmental statistics, March 4-6, 2013. 1st Workshop on mathematical & statistical modeling with application in epidemiology and finance, Northeastern Illinois University, December 14-16, 2012.
-
-Computational Skills
-======
-
-Operating systems  : Windows, MacOS, Linux
-
-Languages          : MatLab, R, MiniTab , Python (Pandas, SQLAlchemy), C++, LeTex
-
-Parallel computing : MPI, openMPI, MatLab, R
-
 
 Publications
 ======
@@ -77,13 +54,3 @@ Service and leadership
 **COMING SOON, In PROGRESS ...**
 
 
-Languages
-=========
-
-English   : highly proficient in spoken and written 
-
-French    : highly proficient in spoken and written 
-
-Tamazight : native speaker 
-
-Arabic    : highly proficient in spoken and written
