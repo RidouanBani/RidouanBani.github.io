@@ -47,6 +47,23 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+Teaching Assistantships
+=======================
+
+(McGill University)
+**Bio 111**: Principles: Organismal Biology. (Fall 2015-16-17)
+**Bio 112**: Cell & Molecular Biology. (Winter 2014-15-16-17-18)
+**Bio 308**: Ecological Dynamics. (Fall 2014)
+**Bio 309**: Mathematical models in Biology. (Fall 2014)
+
+Workshops
+========
+•	The 2013 Industrial Mathematical and Statistical Modeling Workshop for Graduate Students, North Carolina State University, July 15-23, 2013.
+
+•	Stochastic Modeling of Biological Processes. Institute for Mathematics and its Applications (IMA), University of Minnesota, May 12-17, 2013.
+
+•	SAMSI-SAVI workshop on environmental statistics, March 4-6, 2013. 1st Workshop on mathematical & statistical modeling with application in epidemiology and finance, Northeastern Illinois University, December 14-16, 2012.
+
 
 Service and leadership
 ======
