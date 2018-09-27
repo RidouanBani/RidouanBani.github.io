@@ -50,10 +50,14 @@ Talks
 Teaching Assistantships
 =======================
 
-(McGill University)
+[McGill University](http://www.biology.mcgill.ca/grad/ta_posts.html)
+
 **Bio 111**: Principles: Organismal Biology. (Fall 2015-16-17)
+
 **Bio 112**: Cell & Molecular Biology. (Winter 2014-15-16-17-18)
+
 **Bio 308**: Ecological Dynamics. (Fall 2014)
+
 **Bio 309**: Mathematical models in Biology. (Fall 2014)
 
 Workshops
