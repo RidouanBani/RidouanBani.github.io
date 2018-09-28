@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-In General, I am an Mathematician/Theoretical Ecologist interested in understanding mechanisms and processes causing biological patterns and how they change across different organismal, spatial and temporal scales;  organizmal (from an individual cell to meta-ecosystem), spatial (from local to global scale), and temporal (dynamical eco-evo). Biological patterns  including biodiversity, nature and kind of species interactions, fitness (examples; birth, death, reproductions), populations fluctuations.
+In General, I am an Mathematician/Theoretical Ecologist interested in understanding mechanisms and processes causing biological patterns and how they change across different organismal, spatial and temporal scales;  organizmal (from an individual cell to meta-ecosystem), spatial (from local to global scale), and temporal (dynamical eco-evo). Biological patterns  including biodiversity, nature and kind of species interactions, fitness (examples; birth, death, reproductions), populations fluctuations, speciation, and extinction.
 
 
 Education
