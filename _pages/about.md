@@ -28,3 +28,4 @@ In General, I am  interested in understanding mechanisms and processes behind bi
 > Marine protected areas networks in a varrying environment: how big and distant?
 
 
+<br/><img src='/images/Macroscopy.png'>
