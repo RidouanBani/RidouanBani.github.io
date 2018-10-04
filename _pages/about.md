@@ -15,7 +15,7 @@ In General, I am  interested in understanding mechanisms and processes behind bi
 
 > What are the effects of climate change on both biotic and abatioc drivers of metapopulations growth, stability and persistence?
 
-> Marine protected areas networks: how big and distant?
+> Marine protected areas networks in varrying environment: how big and distant?
 
 
 **Methods:**
