@@ -23,7 +23,7 @@ In General, I am  interested in understanding mechanisms and processes behind bi
 **Ongoing:**
 > How  species local interactions combined with regional environmentally forced dispersal shape the growth and stability of metapopulation?
 
-> What are the effects of climate change on both biotic and abatioc drivers of metapopulations growth, stability and persistence?
+> How climate change reshape connectivity throughout its combined effects on dispersal biotic-traits and abatioc ocean currents circulations thus metapopualtion stability? 
 
 > Marine protected areas networks in a varrying environment: how big and distant?
 
