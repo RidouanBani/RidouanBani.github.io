@@ -8,5 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-In General, I am  interested in understanding mechanisms and processes causing biological patterns and how they change across different organismal, spatial and temporal scales;  organizmal (from an individual cell to meta-ecosystem), spatial (local to global), and temporal (eco,evo,devo). Biological patterns  including biodiversity, species interactions, fitness ( birth, death, reproductions, traits, genes), populations fluctuations, speciation, and extinction.
+In General, I am  interested in understanding mechanisms and processes causing biological patterns and how they change across different organismal, spatial and temporal scales;  organizmal (from an individual cell to meta-ecosystem), spatial (local to global), and temporal (eco,evo,devo). 
 
+**Ongoing:**
+how the nature of species local interactions combined with regional environmentally forced dispersal shape the growth, stbility and persistence of metapopulations?
+
+
+**Methods:**
+
+I use mathematical models, computer simulations and statistical analyses of large datasets (e.g. biophysical data).
