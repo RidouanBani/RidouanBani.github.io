@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-In General, I am  interested in understanding mechanisms and processes behind biological diversity and how these processes change across different organismal (from an individual cell to meta-ecosystem), spatial (local to global) and temporal (eco/evo/devo) scales. Such mechanisms include horizontal (with self and other competitors) and vertical (with predators and preys) coexistence, fitness (demography, function or behavior) and its plasticity (inter-individual variability),  environmental conditions and its variability (spatial and temporal), and at last not at least dispersal.
+In General, I am  interested in understanding mechanisms and processes behind biological diversity and how these processes change across different organismal (from an individual cell to meta-ecosystem), spatial (local to global) and temporal (eco/evo/devo) scales. Such mechanisms include horizontal (with self and other competitors) and vertical (with predators and preys) coexistence, fitness (demography, function or behavior) and its plasticity (inter-individual variability),  environmental conditions and their variability (spatial and temporal), and at last not at least dispersal.
 
 
 **What I use**
 
-* Mathematical modeling 
+* Mathematical modeling  
 
-* Computer programming, simulations
+* Computer programming
 
-* Statistical analyses of large datasets (e.g. biophysical data)
+* Statistical analyses 
 
 
 **Ongoing:**
