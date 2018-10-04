@@ -20,4 +20,6 @@ In General, I am  interested in understanding mechanisms and processes causing b
 
 **Methods:**
 
-I use mathematical models, computer simulations and statistical analyses of large datasets (e.g. biophysical data).
+. Mathematical models
+. Computer programming, simulations
+. Statistical analyses of large datasets (e.g. biophysical data)
