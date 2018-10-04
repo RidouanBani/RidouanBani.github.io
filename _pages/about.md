@@ -15,9 +15,9 @@ In General, I am  interested in understanding mechanisms and processes behind bi
 
 * Mathematical modeling 
 
-. Computer programming, simulations
+* Computer programming, simulations
 
-. Statistical analyses of large datasets (e.g. biophysical data)
+* Statistical analyses of large datasets (e.g. biophysical data)
 
 
 **Ongoing:**
