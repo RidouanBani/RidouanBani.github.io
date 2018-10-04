@@ -21,10 +21,10 @@ In General, I am  interested in understanding mechanisms and processes behind bi
 
 
 **Ongoing:**
-> How the nature of species local interactions combined with regional environmentally forced dispersal shape the growth, stability and persistence of metapopulations?
+> How  species local interactions combined with regional environmentally forced dispersal shape the growth, stability and persistence of metapopulations?
 
 > What are the effects of climate change on both biotic and abatioc drivers of metapopulations growth, stability and persistence?
 
-> Marine protected areas networks in varrying environment: how big and distant?
+> Marine protected areas networks in a varrying environment: how big and distant?
 
 
