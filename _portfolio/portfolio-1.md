@@ -8,3 +8,4 @@ Many marine benthic species undergo a pelagic larval stage during which larvae a
 
 
 <br/><img src='/images/Pic1.png'>
+Figure: Simulate stability for density-dependent model represented by isoclines and how it changes with statistical characteristics of connectivity especially mean in x-axis and variance in the y-axis of connectivity distribution
