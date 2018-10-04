@@ -8,7 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-In General, I am  interested in understanding mechanisms and processes behind biological diversity and how these processes change across different organismal (from an individual cell to meta-ecosystem), spatial (local to global) and temporal (eco/evo/devo) scales. Such mechanisms include horizontal (with self and other competitors) and vertical (with predators and preys) coexistence, fitness (birth, death, reproduction and traits) ant its plasticity (inter-individual variability), and at last not at least dispersal.
+** What I want**
+In General, I am  interested in understanding mechanisms and processes behind biological diversity and how these processes change across different organismal (from an individual cell to meta-ecosystem), spatial (local to global) and temporal (eco/evo/devo) scales. Such mechanisms include horizontal (with self and other competitors) and vertical (with predators and preys) coexistence, fitness (demographic, function or behavior) and its plasticity (inter-individual variability), and at last not at least dispersal.
+
+
+**Expertise**
+
+. Mathematical modeling 
+
+. Computer programming, simulations
+
+. Statistical analyses of large datasets (e.g. biophysical data)
+
 
 **Ongoing:**
 > How the nature of species local interactions combined with regional environmentally forced dispersal shape the growth, stability and persistence of metapopulations?
@@ -18,10 +29,3 @@ In General, I am  interested in understanding mechanisms and processes behind bi
 > Marine protected areas networks in varrying environment: how big and distant?
 
 
-**Methods:**
-
-. Mathematical models
-
-. Computer programming, simulations
-
-. Statistical analyses of large datasets (e.g. biophysical data)
