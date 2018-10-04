@@ -7,14 +7,13 @@ venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
 ---
+McGill University
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Bio 111: Principles: Organismal Biology. (Fall 2015-16-17)
 
-Heading 1
-======
+Bio 112: Cell & Molecular Biology. (Winter 2014-15-16-17-18)
 
-Heading 2
-======
+Bio 308: Ecological Dynamics. (Fall 2014)
 
-Heading 3
-======
+Bio 309: Mathematical models in Biology. (Fall 2014)
+
