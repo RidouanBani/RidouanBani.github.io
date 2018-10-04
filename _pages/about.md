@@ -21,7 +21,7 @@ In General, I am  interested in understanding mechanisms and processes behind bi
 
 
 **Ongoing:**
-> How  species local interactions combined with regional environmentally forced dispersal shape the growth, stability and persistence of metapopulations?
+> How  species local interactions combined with regional environmentally forced dispersal shape the growth and stability of metapopulation?
 
 > What are the effects of climate change on both biotic and abatioc drivers of metapopulations growth, stability and persistence?
 
