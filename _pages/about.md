@@ -11,8 +11,11 @@ redirect_from:
 In General, I am  interested in understanding mechanisms and processes causing biological patterns and how they change across different organismal, spatial and temporal scales;  organizmal (from an individual cell to meta-ecosystem), spatial (local to global), and temporal (eco,evo,devo). 
 
 **Ongoing:**
-> how the nature of species local interactions combined with regional environmentally forced dispersal shape the growth, stability and persistence of metapopulations?
->
+> How the nature of species local interactions combined with regional environmentally forced dispersal shape the growth, stability and persistence of metapopulations?
+
+> What are the effects of climate change on both biotic and abatioc drivers of metapopulations growth, stability and persistence?
+
+> Marine protected areas networks: how big and distant?
 
 
 **Methods:**
