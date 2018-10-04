@@ -13,7 +13,7 @@ In General, I am  interested in understanding mechanisms and processes behind bi
 
 **What I use**
 
-. Mathematical modeling 
+* Mathematical modeling 
 
 . Computer programming, simulations
 
