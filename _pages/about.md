@@ -15,11 +15,11 @@ In General, I am  interested in understanding mechanisms and processes behind bi
 
 * Literature
 
-* Mathematical modeling  
+* Conceptualization
+
+* Mathematical modeling, Statistical analyses  
 
 * Computer programming
-
-* Statistical analyses 
 
 
 **Ongoing:**
