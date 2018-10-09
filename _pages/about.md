@@ -23,7 +23,7 @@ In General, I am  interested in understanding mechanisms and processes behind bi
 
 
 **Ongoing:**
-> Metapopulation's fluctuations = Y(dispersal(Moran effect, traits), species interactions)
+> [Metapopulation's fluctuations = Y(dispersal(Moran effect, traits), species interactions)](src='/images/Pic1.png')
 
 > Eco-Evo dynamics 
 
