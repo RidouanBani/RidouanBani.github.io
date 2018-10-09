@@ -1,5 +1,5 @@
 ---
-title: "Marine protected areas networks in a varrying environment: how big and distant?"
+title: "Marine protected areas network in a varrying environment: Where, how big and distant?"
 excerpt: "Many marine benthic species undergo a pelagic larval stage during which larvae are transported by ocean currents over a 
 broad range of spatial and temporal scales. The aim is to study how dispersal-related traits such as spawning time and larval duration
 interact with spatiotemporal connectivity to affect metapopulation stability."
