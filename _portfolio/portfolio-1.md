@@ -1,5 +1,5 @@
 ---
-title: "Metapopulation's fluctuations = Y ( dispersal ( Moran effect, Traits ), Species interatcions )"
+title: "Metapopulation's fluctuations"
 excerpt: "Many marine benthic species undergo a pelagic larval stage during which larvae are transported by ocean currents over a broad range of spatial and temporal scales. The aim is to study how dispersal-related traits such as spawning time and larval duration interact with spatiotemporal connectivity to affect metapopulation growth stability."
 collection: Portfolio
 ---
