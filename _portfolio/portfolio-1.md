@@ -5,11 +5,8 @@ collection: Portfolio
 ---
 
 Fluctuating connectivity may not be the only mechanism behind populations'fluctuations. 
-Three major hypothesis link pattern of population's fluctuations to fluctuating environmental conditions (Moran 1953), 
-interactions among or between species (Blasius et al. 1999), or/and to dispersal (Vasseur & Fox 2009). 
-These hypothesis have been studied alone and in combination with others in order to understand the mechanisms and contribution 
-of each to population's fluctuations (Ranta et al. 1997, Kendall et al. 2000, Ripa 2000). However, often "Moran effect" refers to the effects of environmental conditions on demographic rates such as death and birth rates, ignoring the fact that it may also affect dispersal itself. For example, connectivity  fluctuates due the both effects of environmental conditions on physical ocean currents and
-biologic pelagic traits. In this study, we revisit the paradigm of population's fluctuations using a different prospective, we study the effects of varying environmental conditions on dispersal, and how it affect metapopulation dynamics when considering species interactions. 
+Three major hypothesis link pattern of population's fluctuations to fluctuating environmental conditions, 
+interactions among or between species, or/and to dispersal. While, These hypothesis have been studied alone or inpairs in order to understand the mechanisms and contribution of each to population’s fluctuations. I revisit the paradigm of population's fluctuations using a different prospective, I study the effects of varying environmental conditions on dispersal, and how it affect metapopulation dynamics when considering species interactions. 
 
 
 <br/><img src='/images/Pic1.png'>
