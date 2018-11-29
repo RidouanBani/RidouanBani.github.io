@@ -1,6 +1,7 @@
 ---
 title: "Metapopulation's fluctuations"
-"How dispersal-related traits interact with dynamic connectivity to affect metapopulation growth and stability?"
+excerpt: "How dispersal-related traits interact with dynamic connectivity to affect metapopulation growth and stability?"
+
 collection: Portfolio
 ---
 
