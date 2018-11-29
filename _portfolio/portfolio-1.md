@@ -1,5 +1,5 @@
 ---
-title: "Metapopulation's fluctuations"
+title: "Metapopulation"
 excerpt: "How dispersal-related traits interact with dynamic connectivity to affect metapopulation growth and stability?"
 
 collection: Portfolio
