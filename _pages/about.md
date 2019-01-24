@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Biodiversity is a result of the difference between the rate of speciation and of extinction. Species appear persist for a while then desappear.
+Biodiversity is a result of the difference between the rate of speciation and of extinction. New species appear, persist for a while before they disappear, some species stays for short times periods and other for longer.
 
 ![](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bd%7D%7Bdt%7DBioDiversity%3D%20Speciation%20-%20Extinction)
 
