@@ -11,7 +11,7 @@ Biodiversity is a result of the difference between the rate of speciation and of
 
 ![](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bd%7D%7Bdt%7DBioDiversity%3D%20Speciation%20-%20%5Ccolor%7Bred%7D%7BExtinction%7D)
 
-
+* Why go extinct? 
 
 In General, I am  interested in understanding mechanisms and processes behind biological diversity and how these processes and mechanisms change across different organismal organization (from an individual cell to an ecosystem), spatial (local to global) and temporal (eco/evo/devo) scales. Such mechanisms include  horizontal (with self and other competitor(s)) and vertical (with predator(s) and prey(s)) interactions, fitness (demographycal, functional or behavioral) and its plasticity (inter-individual variability), density regulation, environmental conditions and their variability (spatial and temporal), and at last not at least dispersal.
 
