@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 Biodiversity is a result of difference between the speed (time scale) of speciation and extinction. Species appear then desappear, and What we currently see including ourselfs is ephemiral.
+
 ![](https://latex.codecogs.com/gif.latex?%5Cfrac%7B%5Cpartial%20BioDiversity%7D%7B%5Cpartial%20t%7D%3D%20Epeciation%20-%20Extinction)
+
 In General, I am  interested in understanding mechanisms and processes behind biological diversity and how these processes and mechanisms change across different organismal organization (from an individual cell to an ecosystem), spatial (local to global) and temporal (eco/evo/devo) scales. Such mechanisms include  horizontal (with self and other competitor(s)) and vertical (with predator(s) and prey(s)) interactions, fitness (demographycal, functional or behavioral) and its plasticity (inter-individual variability), density regulation, environmental conditions and their variability (spatial and temporal), and at last not at least dispersal.
 
 
