@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV is available as a [**PDF file**](https://github.com/RidouanBani/CV/raw/master/Ridouan_Bani_CV.pdf).
+My full CV is available as a [**PDF file**](https://github.com/RidouanBani.github.io/Ridouan_Bani_CV.pdf).
 
 Education
 ======
