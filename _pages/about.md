@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 Biodiversity results from the difference between speciation and extinction rates.  
-Since times of early signs of life on earth, species evolved, diverged, and diversified in “magical” way. As a human with a life time scale too short to witness such magical processes we usually assume species to be a constant entity in a manner that they do appear then disappear later after some time. 
-Some species persist for short periods while others last longer. Mother Earth is changing, paleontological records have shown that in some extreme events the rate of extinction increased, leading to a decline in biodiversity. Therefore, understanding the processes behind speciation and extinction and their interactions is essential to  understanding biodiversity.
+Since times of early signs of life on earth, species evolved, diverged, and diversified in a “magical” way. As a human with a life time scale too short to witness such magical processes we usually assume species to be a constant entity in a manner that they do appear then disappear later after some time. Some species persist for short periods while others last longer. Mother Earth is changing, paleontological records have shown that in some extreme events the rate of extinction increased, leading to a decline in biodiversity. Therefore, understanding the processes behind speciation and extinction and their interactions is essential to  understanding biodiversity.
 
 ![](https://latex.codecogs.com/gif.latex?%5CDelta%20Biodiversity%3DSpeciation-%5Ccolorbox%7BBurntOrange%7D%7BExtinction%7D&plus;cov%28Speciation%2CExtinction%29)
 
