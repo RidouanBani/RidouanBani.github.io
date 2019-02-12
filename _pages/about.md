@@ -9,7 +9,7 @@ redirect_from:
 ---
 Biodiversity results from the difference between speciation and extinction rates. New species appear, then persist for a while before disappearing. Some species persist for short periods while others last longer. Mother Earth is changing, paleontological records have shown that in some extreme events the rate of extinction increased, leading to a decline in biodiversity. Therefore, understanding the processes behind speciation and extinction and their interactions is essential to  understanding biodiversity.
 
-![](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bd%7D%7Bdt%7DBioDiversity%3D%20Speciation%20-%20%5Ccolor%7Bred%7D%7BExtinction%7D)
+![](https://latex.codecogs.com/gif.latex?%5CDelta%20Biodiversity%3DSpeciation-%5Ccolorbox%7BBurntOrange%7D%7BExtinction%7D&plus;cov%28Speciation%2CExtinction%29)
 
 * Phase one: Why go extinct? 
 
