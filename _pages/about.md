@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Biodiversity is a result of the difference between the rate of speciation and of extinction. New species appear, then persist for a while before they disappear, some species stays for short time and other for longer time periods. The mother earth is changing, paleontological records shows that in some extreme events the rate of extinction increase causing a lower biodiversity. Therefore, understanding the speciation and extinction rates are key for understanding biodiversity. 
+Biodiversity is the result of the difference between the rates of speciation and extinction. New species appear, then persist for a while before they disappear, some species persist for short times while others for longer time periods. The mother earth is changing, paleontological records showed that in some extreme events the rate of extinction increased causing a lower biodiversity. Therefore, understanding processes behind  speciation and extinction are key for understanding biodiversity. 
 
 ![](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bd%7D%7Bdt%7DBioDiversity%3D%20Speciation%20-%20%5Ccolor%7Bred%7D%7BExtinction%7D)
 
