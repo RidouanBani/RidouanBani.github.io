@@ -13,7 +13,7 @@ Since times of early signs of life on earth, species evolved, diverged, and dive
 ![](https://latex.codecogs.com/gif.latex?%5CDelta%20Biodiversity%3DSpeciation-%5Ccolorbox%7BBurntOrange%7D%7BExtinction%7D&plus;cov%28Speciation%2CExtinction%29)
 
 
-In General, I am  interested in understanding mechanisms and processes behind biological diversity and how these processes and mechanisms change across different organismal organization (from an individual cell to an ecosystem), spatial (local to global) and temporal (eco/evo/devo) scales. Such mechanisms include  horizontal (with self and other competitor(s)) and vertical (with predator(s) and prey(s)) interactions, fitness (demographycal, functional or behavioral) and its plasticity (inter-individual variability), density regulation, environmental conditions and their variability (spatial and temporal), and at last not at least dispersal.
+My overarching research interests revolve around understanding the mechanisms and processes behind biological diversity and how these processes and mechanisms changes across different organismal organization (from an individual cell to an ecosystem), spatial (local to global), and temporal (ecological, evolutionary, or developmental scales). Such mechanisms include species interactions (intra/inter-competition, predation and resources), fitness (demographic, functional, or behavioral) and its plasticity (interindividual variability), density regulation, environmental conditions variability (spatial and temporal), and dispersal.
 
 
 **Tools**
