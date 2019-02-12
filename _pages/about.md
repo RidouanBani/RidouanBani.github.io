@@ -28,11 +28,12 @@ My overarching research interests revolve around understanding the mechanisms an
 
 
 **Ongoing:**
-> [Metapopulation](https://ridouanbani.github.io/portfolio/portfolio-1/)
-
-> [Eco-Evo dynamics](https://ridouanbani.github.io/portfolio/portfolio-2/)
+> [Populations’ fluctuations ](https://ridouanbani.github.io/portfolio/portfolio-1/)
+Before a species go extinct, its dynamics shows the 
 
 > [Marine protected areas network in a varrying environment: Where, how big and distant?](https://ridouanbani.github.io/portfolio/portfolio-3/)
 
+**Past:**
+>[Mathematical Epidemiology]
 
 <br/><img src='/images/Macroscopy.png'>
