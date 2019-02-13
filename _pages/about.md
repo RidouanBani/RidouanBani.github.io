@@ -30,7 +30,7 @@ My overarching research interests revolve around understanding the mechanisms an
 **Ongoing:**
 > [Populations’ fluctuations ](https://ridouanbani.github.io/portfolio/portfolio-1/)
 
-Ecological dynamics can help predict whether a species is prone to extinction or not. A population of species fluctuates, it grows during good times (many births and/or few deaths) and decreases during bad periods (few births and/or many  deaths). In addition to mortality and birth rates, immigration and emigration rates are the four main processes responsible for demographic fluctuations.
+Ecological dynamics can help predict whether a species is prone to extinction or not. A population of species fluctuates, it grows during good times (many births and/or few deaths) and decreases during bad periods (few births and/or many  deaths). In general four demographic processes are responsible for populations' fluctuations; (b)irth, (i)mmigration, (d)eath, and (e)migrattion or the BIDE rates. I aim to understand the causes and consequences of BIDE rates variations  on populations fluctuations and persistence. 
 
 > [Marine protected areas network in a varrying environment: Where, how big and distant?](https://ridouanbani.github.io/portfolio/portfolio-3/)
 
