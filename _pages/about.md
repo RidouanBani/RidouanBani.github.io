@@ -28,9 +28,11 @@ My overarching research interests revolve around understanding the mechanisms an
 
 
 **Ongoing:**
-> [Populations’ fluctuations ](https://ridouanbani.github.io/portfolio/portfolio-1/)
+> [Populations fluctuations ](https://ridouanbani.github.io/portfolio/portfolio-1/)
 
-Ecological dynamics can help predict whether a species is prone to extinction or not. Population of a species fluctuates, it grows during good times (e.g., many births and/or few deaths) and decreases during bad periods (e.g., few births and/or many  deaths). In general four demographic processes are responsible for populations' fluctuations; (b)irth, (i)mmigration, (d)eath, and (e)migrattion or the BIDE rates. I aim to understand the causes and consequences of BIDE rates variations  on populations fluctuations and persistence. 
+Ecological dynamics can help predict whether a species is prone to extinction or not. Populations  fluctuate, they grow during good times (e.g., many births and/or few deaths) and decrease during bad periods (e.g., few births and/or many  deaths). Four demographic processes are responsible for populations' fluctuations mainly (b)irth, (i)mmigration, (d)eath, and (e)migrattion or the BIDE rates. In genral, I aim to understand the causes and consequences of BIDE rates variations and covariations  on populations fluctuations and persistence:
+* The role age class
+* 
 
 > [Marine protected areas network in a varrying environment: Where, how big and distant?](https://ridouanbani.github.io/portfolio/portfolio-3/)
 
