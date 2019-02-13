@@ -29,7 +29,8 @@ My overarching research interests revolve around understanding the mechanisms an
 
 **Ongoing:**
 > [Populations’ fluctuations ](https://ridouanbani.github.io/portfolio/portfolio-1/)
-Before a species go extinct, its dynamics shows the 
+
+Ecological dynamics can help predict whether a species is prone to extinction or not. A population of species fluctuates, it grows during good times (for example, large births and / or deaths are low) and decreases during bad periods (eg, low births and / or deaths).
 
 > [Marine protected areas network in a varrying environment: Where, how big and distant?](https://ridouanbani.github.io/portfolio/portfolio-3/)
 
