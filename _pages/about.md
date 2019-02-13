@@ -37,6 +37,7 @@ Ecological dynamics can help predict whether a species is prone to extinction or
 * between different individuals
 * Temporal and spatial
 * abiotic or biotic 
+
 on populations fluctuations and persistence. I deploy a variety of modelng technics to 
 * Age, stage-populations, metapopulation, metacommunties models 
 * Time series analysis, data estimattion and  fitting
