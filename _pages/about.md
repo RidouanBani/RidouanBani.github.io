@@ -11,21 +11,13 @@ redirect_from:
 
 
 
-"This personnal website is still under construction "
 
 
 **Introduction**
 
 
 
-Biodiversity results from the difference between speciation and extinction rates.  
-Since times of early signs of life on earth, species evolved, diverged, and diversified in a “magical” way. As a human with a life time scale too short to witness such magical processes we usually assume species to be a constant entity in a manner that they do appear then disappear later after some time. Some species persist for short periods while others last longer. Mother Earth is changing, paleontological records have shown that in some extreme events the rate of extinction increased, leading to a decline in biodiversity. Therefore, understanding the processes behind speciation, extinction and their interactions is essential to  understanding biodiversity.
-
-![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cfn_cs%20%5Clarge%20%24%24%20%5CDelta%20Biodiversity%26%3D%5Ccolorbox%7BGreen%7D%7BSpeciation%7D%20%26%20%26-%5Ccolorbox%7BBurntOrange%7D%7BExtinction%7D%20%26%20%26&plus;COV%28Speciation%2CExtinction%29%20%24%24)
-
-
-My overarching research interests revolve around understanding the mechanisms and processes behind biological diversity and how these processes and mechanisms changes across different organismal organization (from an individual cell to an ecosystem), spatial (local to global), and temporal (ecological, evolutionary, or developmental scales). Such mechanisms include species interactions (intra/inter-competition, predation and resources), fitness (demographic, functional, or behavioral) and its plasticity (interindividual variability), density regulation, environmental conditions variability (spatial and temporal), and dispersal.
-
+I am theoretical ecologist, mathematical biologist. My overarching research interests revolve around understanding the mechanisms and processes behind biological complex systems, and how these processes and mechanisms changes across different organismal organization (e.g. from an individual to an ecosystem level), spatial (e.g. local to global), and both ecological and evolutionary temporal scales. What are the roles of dispersal, interactions (e.g. parasitism, intra/inter-competition, predation), fitness (e.g. demographic, functional, behavioral) and its plasticity (interindividual variability), density regulation, and environmental conditions variability (spatial and temporal)? To answer these questions, I deploy a variety of mathematical, statistical, and computational tools and technics to model complex natural systems into quasi-realistic and interpretable level that allows advancement of our understanding about systems dynamics, functionality, and evolvability
 
 **Tools**
 
