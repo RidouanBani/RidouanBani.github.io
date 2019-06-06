@@ -30,7 +30,7 @@ Ecological dynamics can help predict whether a species is prone to extinction or
 
 > [Climate change and marine metapopulation: The dispersal mediated effects](https://ridouanbani.github.io/portfolio/portfolio-3/)
 
-With ongoing rapid climate change, most marine benthic invertebrates and few territorial vertebrate fish species characterized by sedentary adult phase and larval pelagic phase are subjected to effects that increase adult mortality, modify pelagic features such as larval duration as well as ocean currents. Most ecological studies focus on direct and local impacts of climate change factors on survival and development of species and a few have considered the indirect effects of both abiotic ocean currents and temperature-prone larval duration.   In this study, we investigate the combined effects of climate change on both local mortality and regional dispersal and how they affect stability of marine metapopulations. 
+With ongoing rapid climate change, marine species with bipartite life cycle; a sedentary adult phase and larval pelagic phase, are subjected to effects that increase adult mortality, modify pelagic features such as larval duration as well as ocean currents. In this project, I considered the indirect effects of both abiotic ocean currents and temperature-prone larval duration to investigate the combined effects of climate change on both local mortality and regional dispersal and how they affect stability of marine metapopulations. 
 
 > [Marine protected areas network in a varrying environment: Where, how big and distant?](https://ridouanbani.github.io/portfolio/portfolio-3/)
 
