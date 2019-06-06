@@ -41,4 +41,4 @@ Ecological dynamics can help predict whether a species is prone to extinction or
 **Past:**
 >[Mathematical Epidemiology]
 
-<br/><img src='/images/Macroscopy.png'>
+
