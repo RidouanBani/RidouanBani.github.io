@@ -23,16 +23,6 @@ I combine theory with applications to specific systems with available data whene
 
 -
 
-**Tools**
-
-* Literature
-
-* Conceptualization and/or emperical evidense
-
-* Mathematical modeling, Statistical analyses  
-
-* Computer programming
-
 
 **Ongoing:**
 > [Populations fluctuations ](https://ridouanbani.github.io/portfolio/portfolio-1/)
