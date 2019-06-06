@@ -54,11 +54,8 @@ Methamphetamine abuse in the state of California has become an epidemic, where t
 
 >[Modeling the transmission dynamics and control of lymphatic filariasis in Papua New Guinea](https://ridouanbani.github.io/portfolio/portfolio-6)
 
-We evaluated lymphatic filariasis (Wuchereria bancrofti parasites) control strategies with  focus  on  Papua  New  Guinea  (PNG).  
+We evaluated control strategies to eliminate lymphatic filariasis (Wuchereria bancrofti parasites)with  focus  on  Papua  New  Guinea  (PNG).  
 
-(PDF) Modeling the transmission dynamics and control of lymphatic filariasis (Wuchereria bancrofti parasites) in Papua New Guinea. Available from: 
-
-the control strategies either at local or short-term level  Investigate  of lymphatic filariasis disease.  through mosquitoes in four stages of human population based on the microfilariae and antibody levels. The stages are functions of transmission rates, reproduction, mortality, drug chemotherapy, bednet usage and insecticide spraying
 
 
 > [Burden of Chlamydia in the United States: Trend Analysis of Incidence Rates ](https://ridouanbani.github.io/portfolio/portfolio-7/)
