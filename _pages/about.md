@@ -28,6 +28,9 @@ I combine theory with applications to specific systems with available data whene
 
 Ecological dynamics can help predict whether a species is prone to extinction or not. Populations  fluctuate, they grow during good times (e.g., many births and/or few deaths) and decrease during bad periods (e.g., few births and/or many  deaths). Four demographic processes are responsible for populations' fluctuations mainly (b)irth, (i)mmigration, (d)eath, and (e)migrattion or the BIDE rates. In genral, I aim to understand the causes and consequences of BIDE rates variations and covariations on populations fluctuations and persistence.
 
+> [Climate change and marine metapopulation: The dispersal mediated effects](https://ridouanbani.github.io/portfolio/portfolio-3/)
+
+With ongoing rapid climate change, most marine benthic invertebrates and few territorial vertebrate fish species characterized by sedentary adult phase and larval pelagic phase are subjected to effects that increase adult mortality, modify pelagic features such as larval duration as well as ocean currents. Most ecological studies focus on direct and local impacts of climate change factors on survival and development of species and a few have considered the indirect effects of both abiotic ocean currents and temperature-prone larval duration.   In this study, we investigate the combined effects of climate change on both local mortality and regional dispersal and how they affect stability of marine metapopulations. 
 
 > [Marine protected areas network in a varrying environment: Where, how big and distant?](https://ridouanbani.github.io/portfolio/portfolio-3/)
 
