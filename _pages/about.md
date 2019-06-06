@@ -21,7 +21,6 @@ I am theoretical ecologist, mathematical biologist. My overarching research inte
 I combine theory with applications to specific systems with available data whenever possible.
 
 
--
 
 
 **Ongoing:**
