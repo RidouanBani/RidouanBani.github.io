@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-**Introduction**
+
 
 
 
@@ -23,7 +23,7 @@ I combine theory with applications to specific systems with available data.
 
 
 
-**Ongoing:**
+**Ongoing research**
 > [Metapopulations dynamics, populations fluctuations, and stochastic dispersal ](https://ridouanbani.github.io/portfolio/portfolio-1/)
 
 Ecological dynamics can help predict whether a species is prone to extinction or not. Populations  fluctuate, they grow during good times (e.g., many births and/or few deaths) and decrease during bad periods (e.g., few births and/or many  deaths). Four demographic processes are responsible for populations' fluctuations mainly (b)irth, (i)mmigration, (d)eath, and (e)migrattion or the BIDE rates. In genral, I aim to understand the causes and consequences of BIDE rates variations and covariations on populations fluctuations and persistence.
@@ -37,7 +37,7 @@ With ongoing rapid climate change, marine species with bipartite life cycle; a s
  Principles for designing marine protected area networks that address social, economic, and biological criteria are well studied in the scientific literature. However, variability of environmental conditions and climate change  represents a new and challenging issues to marine ecosystems functioning and stability. I revisit the problem of size and spacing in MPAs network using stochastic mathematical models.
  
  
-**Past:**
+**Past research**
 
 > [Influence of environmental factors on college alcohol drinking patterns](https://ridouanbani.github.io/portfolio/portfolio-4/)
 
