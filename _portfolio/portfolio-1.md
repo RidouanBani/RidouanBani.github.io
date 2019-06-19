@@ -5,6 +5,8 @@ excerpt: "How dispersal-related traits interact with dynamic connectivity to aff
 collection: Portfolio
 ---
 
+
+
 ![](/images/Pic1.png){:width="300px"
 style="float: left;margin-right: 12px;margin-top: 0px;"}
 Fluctuating connectivity may not be the only mechanism behind populations'fluctuations. 
