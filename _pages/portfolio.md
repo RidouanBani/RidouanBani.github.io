@@ -45,7 +45,7 @@ Projects concern modeling and time series analysis of some tropical vector-borne
 
 Ecological dynamics can help predict whether a species is prone to extinction or not. Populations  fluctuate, they grow during good times (e.g., many births and/or few deaths) and decrease during bad periods (e.g., few births and/or many  deaths). Four demographic processes are responsible for populations' fluctuations mainly (b)irth, (i)mmigration, (d)eath, and (e)migrattion or the BIDE rates. In genral, I aim to understand the causes and consequences of BIDE rates variations and covariations on populations fluctuations and persistence.
 
-> [Climate change and marine metapopulation: The dispersal mediated effects](https://ridouanbani.github.io/portfolio/portfolio-3/)
+> [Climate change and marine metapopulation: The dispersal mediated effects](https://ridouanbani.github.io/portfolio/portfolio-2/)
 
 With ongoing rapid climate change, marine species with bipartite life cycle; a sedentary adult phase and larval pelagic phase, are subjected to effects that increase adult mortality, modify pelagic features such as larval duration as well as ocean currents. In this project, I considered the indirect effects of both abiotic ocean currents and temperature-prone larval duration to investigate the combined effects of climate change on both local mortality and regional dispersal and how they affect stability of marine metapopulations. 
 
