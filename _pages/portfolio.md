@@ -18,7 +18,7 @@ conditions including climate change.
 
 
 
-.[Metapopulations dynamics, populations fluctuations, and stochastic dispersal ](https://ridouanbani.github.io/portfolio/portfolio-1/)
+>[Metapopulations dynamics, populations fluctuations, and stochastic dispersal ](https://ridouanbani.github.io/portfolio/portfolio-1/)
 
 >[Climate change and marine metapopulation: The dispersal mediated effects](https://ridouanbani.github.io/portfolio/portfolio-3/)
 
@@ -41,7 +41,7 @@ Projects concern modeling and time series analysis of some tropical vector-borne
 ---
 
 
-> [Metapopulations dynamics, populations fluctuations, and stochastic dispersal ](https://ridouanbani.github.io/portfolio/portfolio-1/)
+## [Metapopulations dynamics, populations fluctuations, and stochastic dispersal ]##
 
 Ecological dynamics can help predict whether a species is prone to extinction or not. Populations  fluctuate, they grow during good times (e.g., many births and/or few deaths) and decrease during bad periods (e.g., few births and/or many  deaths). Four demographic processes are responsible for populations' fluctuations mainly (b)irth, (i)mmigration, (d)eath, and (e)migrattion or the BIDE rates. In genral, I aim to understand the causes and consequences of BIDE rates variations and covariations on populations fluctuations and persistence.
 
