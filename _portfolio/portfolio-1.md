@@ -7,7 +7,7 @@ collection: Portfolio
 
 
 
-![](/images/Pic1.png){:width="300px"
+![](/images/Pic1.png){:width="500px"
 style="float: left;margin-right: 12px;margin-top: 0px;"}
 Fluctuating connectivity may not be the only mechanism behind populations'fluctuations. 
 Three major hypothesis link pattern of population's fluctuations to fluctuating environmental conditions, 
