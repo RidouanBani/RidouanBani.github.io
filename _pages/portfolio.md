@@ -19,17 +19,22 @@ conditions including climate change.
 
 
 >[Metapopulations dynamics, populations fluctuations, and stochastic dispersal ](https://ridouanbani.github.io/portfolio/portfolio-1/)
-+ [Climate change and marine metapopulation: The dispersal mediated effects](https://ridouanbani.github.io/portfolio/portfolio-3/)
-+ [Marine protected areas network in a varrying environment: Where, how big and distant?](https://ridouanbani.github.io/portfolio/portfolio-3/)
+
+>[Climate change and marine metapopulation: The dispersal mediated effects](https://ridouanbani.github.io/portfolio/portfolio-3/)
+
+> [Marine protected areas network in a varrying environment: Where, how big and distant?](https://ridouanbani.github.io/portfolio/portfolio-3/)
 
 Past Projects:
 
 Projects concern modeling and time series analysis of some tropical vector-borne diseases such Lymphatic-filariasis (Wichereria bancrofti) and substance abuse such ahcohol and methamphetamine. In general, modeling of complex epidemiological systems is important as we try to understand the mechanisms that shape our environment and to develop reasonable response strategies
 
-+ [Influence of environmental factors on college alcohol drinking patterns](https://ridouanbani.github.io/portfolio/portfolio-4/)
-+ [Methamphetamine Abuse Dynamics in the state of California](https://ridouanbani.github.io/portfolio/portfolio-5/)
-+ [Modeling the transmission dynamics and control of lymphatic filariasis in Papua New Guinea](https://ridouanbani.github.io/portfolio/portfolio-6)
-+ [Burden of Chlamydia in the United States: Trend Analysis of Incidence Rates ](https://ridouanbani.github.io/portfolio/portfolio-7/)
+>[Influence of environmental factors on college alcohol drinking patterns](https://ridouanbani.github.io/portfolio/portfolio-4/)
+
+>[Methamphetamine Abuse Dynamics in the state of California](https://ridouanbani.github.io/portfolio/portfolio-5/)
+
+>[Modeling the transmission dynamics and control of lymphatic filariasis in Papua New Guinea](https://ridouanbani.github.io/portfolio/portfolio-6)
+
+>[Burden of Chlamydia in the United States: Trend Analysis of Incidence Rates ](https://ridouanbani.github.io/portfolio/portfolio-7/)
 
 
 
