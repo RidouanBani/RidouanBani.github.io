@@ -13,5 +13,9 @@ interactions among or between species, or/and to dispersal. While, These hypothe
 ![](/images/Pic1.png){:width="300px"
 style="float: left;margin-right: 12px;margin-top: 0px;"}
 
+
+
+
+
 <br/><img src='/images/Pic1.png'>
 Figure: Simulate stability for density-dependent model represented by isoclines and how it changes with statistical characteristics of connectivity especially mean in x-axis and variance in the y-axis of connectivity distribution
