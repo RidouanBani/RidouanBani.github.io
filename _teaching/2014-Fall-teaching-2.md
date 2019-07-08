@@ -8,7 +8,7 @@ date: 2014-09-09
 location: "Montreal, Qc Canada"
 
 ---
-
+- Fall 2014
 - Grade midterm and final exams
 - Hold office hours to answer student questions on tutorials
 - Conduct tutorials (practice sessions on solving exam-style problems)
