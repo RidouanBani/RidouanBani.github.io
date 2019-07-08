@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "BIO 308: Ecological Dynamics"
 collection: teaching
-type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
 date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- Grade midterm and final exams
+- Hold office hours to answer student questions on tutorials
+- Conduct tutorials (practice sessions on solving exam-style problems)
+- Practice problems consist in simple analysis and interpretation of population and food web models.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
