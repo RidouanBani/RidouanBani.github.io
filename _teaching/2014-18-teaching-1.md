@@ -4,7 +4,6 @@ collection: teaching
 type: "Lab"
 permalink: /teaching/2014-18-teaching-1
 venue: "McGill University, Biology Department"
-date: 2014-01-01 2018-12-24 
 location: "Montreal, Qc Canada"
 
 ---
