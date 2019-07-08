@@ -1,5 +1,5 @@
 ---
-title: "Bio 309: Mathematical models in Biology"
+title: "BIO 309: Mathematical models in Biology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-Fall-teaching-1
