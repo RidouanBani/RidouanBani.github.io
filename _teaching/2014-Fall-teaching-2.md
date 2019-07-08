@@ -1,10 +1,10 @@
 ---
 title: "BIO 308: Ecological Dynamics"
 collection: teaching
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2014-Fall-teaching-1
+venue: "McGill University, Biology Department"
+date: 2014-09-09
+location: "Montreal, Qc Canada"
 ---
 
 - Grade midterm and final exams
