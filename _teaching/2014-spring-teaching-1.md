@@ -1,19 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Bio 309: Mathematical models in Biology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "McGill University, Biology Department"
 date: 2014-01-01
-location: "City, Country"
+location: "Montreal, Qc Canada"
 ---
-McGill University
-
-Bio 111: Principles: Organismal Biology. (Fall 2015-16-17)
-
-Bio 112: Cell & Molecular Biology. (Winter 2014-15-16-17-18)
-
-Bio 308: Ecological Dynamics. (Fall 2014)
-
-Bio 309: Mathematical models in Biology. (Fall 2014)
+• Run a tutorial 2x/week (3 hrs. total)
+• Meet with students individually to help with problems
+• Grade homework and help with grading of tests and papers
+• Invigilate final exam
+• Post solutions to homework problems and tests
+• Maintain a spreadsheet with grades for tests and assignments
 
