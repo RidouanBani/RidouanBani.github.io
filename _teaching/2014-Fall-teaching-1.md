@@ -2,7 +2,7 @@
 title: "Bio 309: Mathematical models in Biology"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2014-Fall-teaching-1
 venue: "McGill University, Biology Department"
 date: 2014-01-01
 location: "Montreal, Qc Canada"
