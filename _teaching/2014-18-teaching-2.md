@@ -19,8 +19,8 @@ presentation).
 presentations.
 -Enters students' detailed weekly lab marks directly in Grade Book, on a weekly basis for students to
 check for discrepancies.
--Completes student attendance records and ensures the correctness of absences Grade Book.
-• Follows-up immediately with absent student(s) to reschedule a make-up lab before the end of the
+- Completes student attendance records and ensures the correctness of absences Grade Book.
+- Follows-up immediately with absent student(s) to reschedule a make-up lab before the end of the
 week.
 -Finalize all existing lab marks directly with students during the last lab session and finalize all lab
 Grade Book by the deadline set by the lab coordinator.
