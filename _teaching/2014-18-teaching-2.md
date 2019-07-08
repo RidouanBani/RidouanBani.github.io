@@ -1,11 +1,10 @@
-
 ---
 title: "BIO 111: Organismal Biology"
 collection: teaching
 type: "Lab"
 permalink: /teaching/2014-18-teaching-2
 venue: "McGill University, Biology Department"
-date: 2014-01-01 2018-12-24 
+date: 2014-01-01 
 location: "Montreal, Qc Canada"
 
 ---
