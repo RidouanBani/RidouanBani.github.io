@@ -8,7 +8,6 @@ location: "Montreal, Qc Canada"
 
 ---
 - Fall 2015, 2016, 2017, 2018
-- Winter 2014, 2015, 2016, 2017, 2018
 - Accountable for a professional and confidential use and accurate entry of all weekly student lab
 marks in the BIOL 112 Grade Book in myCourses.
 - Has adequate knowledge of all topics in lab curriculum. Practices techniques/dissections before
