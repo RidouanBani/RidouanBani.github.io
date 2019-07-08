@@ -7,10 +7,10 @@ venue: "McGill University, Biology Department"
 date: 2014-01-01
 location: "Montreal, Qc Canada"
 ---
-• Run a tutorial 2x/week (3 hrs. total)
-• Meet with students individually to help with problems
-• Grade homework and help with grading of tests and papers
-• Invigilate final exam
-• Post solutions to homework problems and tests
-• Maintain a spreadsheet with grades for tests and assignments
+- Run a tutorial 2x/week (3 hrs. total)
+- Meet with students individually to help with problems
+- Grade homework and help with grading of tests and papers
+- Invigilate final exam
+- Post solutions to homework problems and tests
+- Maintain a spreadsheet with grades for tests and assignments
 
