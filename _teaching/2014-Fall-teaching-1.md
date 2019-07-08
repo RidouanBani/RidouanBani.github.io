@@ -6,6 +6,7 @@ permalink: /teaching/2014-Fall-teaching-1
 venue: "McGill University, Biology Department"
 date: 2014-01-01
 location: "Montreal, Qc Canada"
+
 ---
 - Run a tutorial 2x/week (3 hrs. total)
 - Meet with students individually to help with problems
