@@ -8,6 +8,7 @@ date: 2014-01-01
 location: "Montreal, Qc Canada"
 
 ---
+- Fall 2014
 - Run a tutorial 2x/week (3 hrs. total)
 - Meet with students individually to help with problems
 - Grade homework and help with grading of tests and papers
