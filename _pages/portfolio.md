@@ -20,7 +20,23 @@ conditions including climate change.
 
 >[Metapopulations dynamics, populations fluctuations, and stochastic dispersal ](https://ridouanbani.github.io/portfolio/portfolio-1/)
 
+![](/images/pic1.png){:width="300px"
+style="float: right;margin-left: 0px;margin-top: 0px;"}
+
+Fluctuating connectivity may not be the only mechanism behind populations'fluctuations. 
+Three major hypothesis link pattern of population's fluctuations to fluctuating environmental conditions, 
+interactions among or between species, or/and to dispersal. While, These hypothesis have been studied alone or in pairs in order to understand the mechanisms and contribution of each to population’s fluctuations. I revisit the paradigm of population's fluctuations using a different prospective, I study the effects of varying environmental conditions on dispersal, and how it affect metapopulation dynamics when considering species interactions. 
+
 >[Climate change and marine metapopulation: The dispersal mediated effects](https://ridouanbani.github.io/portfolio/portfolio-2/)
+
+![](/images/pic2.png){:width="300px"
+style="float: right;margin-left: 0px;margin-top: 0px;"}
+
+With ongoing rapid climate change, marine species with bipartite life cycle; a sedentary adult phase and larval 
+pelagic phase, are subjected to effects that increase adult mortality, modify pelagic features such as larval duration 
+as well as ocean currents. In this project, I considered the indirect effects of both abiotic ocean currents and 
+temperature-prone larval duration to investigate the combined effects of climate change on both local mortality and 
+regional dispersal and how they affect stability of marine metapopulations.
 
 > [Marine protected areas network in a varrying environment: Where, how big and distant?](https://ridouanbani.github.io/portfolio/portfolio-3/)
 
