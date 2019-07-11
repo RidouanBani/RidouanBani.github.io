@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-Ongoing projects:
+**Ongoing projects**:
 
 Currently working with Prof. Frederic Guichard (McGill University) and Prof. Marie-Josee Fortin (University of Toronto) 
 to exploring the role of community structure and dispersal coupling among different habitats affect (1) the emergence of 
@@ -46,7 +46,7 @@ style="float: right;margin-left: 0px;margin-top: 0px;"}
 Principles for designing marine protected area networks that address social, economic, and biological criteria are well studied in the scientific literature. However, variability of environmental conditions and climate change represents a new and challenging issues to marine ecosystems functioning and stability. I revisit the problem of size and spacing in MPAs network using stochastic mathematical models.
 
 
-Past Projects:
+**Past Projects**:
 
 Projects concern modeling and time series analysis of some tropical vector-borne diseases such Lymphatic-filariasis (Wichereria bancrofti) and substance abuse such ahcohol and methamphetamine. In general, modeling of complex epidemiological systems is important as we try to understand the mechanisms that shape our environment and to develop reasonable response strategies
 
