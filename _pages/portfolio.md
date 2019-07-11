@@ -15,15 +15,13 @@ interactions between species pelagic traits and physical ocean currents, the dif
 change can affect such interactions, and proposes a new framework for marine protected areas robust to varying environmental 
 conditions including climate change. 
 
-![](/images/pic4.png){:width="400px"
-style="float: right;margin-left: 0px;margin-top: 0px;"}
 
 
 
 >[Metapopulations dynamics, populations fluctuations, and stochastic dispersal ](https://ridouanbani.github.io/portfolio/portfolio-1/)
 
 ![](/images/pic1.png){:width="300px"
-style="float: right;margin-left: 0px;margin-top: 0px;"}
+style="float: left;margin-left: 0px;margin-top: 0px;"}
 
 Fluctuating connectivity may not be the only mechanism behind populations'fluctuations. 
 Three major hypothesis link pattern of population's fluctuations to fluctuating environmental conditions, 
@@ -43,7 +41,7 @@ regional dispersal and how they affect stability of marine metapopulations.
 > [Marine protected areas network in a varrying environment: Where, how big and distant?](https://ridouanbani.github.io/portfolio/portfolio-3/)
 
 ![](/images/pic3.png){:width="300px"
-style="float: right;margin-left: 0px;margin-top: 0px;"}
+style="float: left;margin-left: 0px;margin-top: 0px;"}
 
 Principles for designing marine protected area networks that address social, economic, and biological criteria are well studied in the scientific literature. However, variability of environmental conditions and climate change represents a new and challenging issues to marine ecosystems functioning and stability. I revisit the problem of size and spacing in MPAs network using stochastic mathematical models.
 
