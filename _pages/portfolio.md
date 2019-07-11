@@ -15,6 +15,8 @@ interactions between species pelagic traits and physical ocean currents, the dif
 change can affect such interactions, and proposes a new framework for marine protected areas robust to varying environmental 
 conditions including climate change. 
 
+![](/images/pic4.png){:width="400px"
+style="float: right;margin-left: 0px;margin-top: 0px;"}
 
 
 
