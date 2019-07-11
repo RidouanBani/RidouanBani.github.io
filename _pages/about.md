@@ -21,6 +21,8 @@ I am theoretical ecologist, mathematical biologist. My overarching research inte
 
 ![](/images/pic5.png){:width="200px"
 style="float: left;margin-left: 10px;margin-top: 0px;"}
+![](/images/pic6.png){:width="200px"
+style="float: left;margin-left: 10px;margin-top: 0px;"}
 
 To answer these questions, I deploy a variety of mathematical, statistical, and computational tools and technics to model complex natural systems into quasi-realistic and interpretable level that allows advancement of our understanding about system dynamics, functionality, and evolvability.
 I combine theory with applications to specific systems with available data.
