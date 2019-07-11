@@ -8,7 +8,7 @@ modified: 2018-09-09T00:00:13+10:00
 Contact information for Ridouan Bani.
 ------
 
-![](/images/pic7.png){:width="600px"
+![](/images/pic7.png){:width="400px"
 style="float: right;margin-left: 0px;margin-top: 0px;"}
 
 * N4/17 Stewart Biology Building,
