@@ -8,6 +8,9 @@ modified: 2018-09-09T00:00:13+10:00
 Contact information for Ridouan Bani.
 ------
 
+![](/images/Department of Biology - Google Maps.pdf){:width="600px"
+style="float: right;margin-left: 0px;margin-top: 0px;"}
+
 * N4/17 Stewart Biology Building,
  1205 Docteur Penfield avenue
  Montreal, Quebec, H3A1B1
