@@ -204,7 +204,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      classes: wide
+      classes: wide .  ## added
   # _teaching
   - scope:
       path: ""
@@ -280,9 +280,9 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-##category_archive:
-##  type: liquid
-##  path: /categories/
+category_archive:
+  type: liquid
+  path: /categories/
 ##tag_archive:
 ##  type: liquid
 ##  path: /tags/
@@ -297,10 +297,10 @@ whitelist:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-layout: splash
-classes:
-  - landing
-  - dark-theme
+#layout: splash
+#classes:
+#  - landing
+# - dark-theme
 
 # HTML Compression
 # - http://jch.penibelst.de/
