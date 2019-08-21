@@ -202,7 +202,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: splash        ## single
       author_profile: true
       classes: wide .  ## added
   # _teaching
