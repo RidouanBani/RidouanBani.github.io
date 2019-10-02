@@ -202,9 +202,9 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: splash        ## single
+      layout: single        ## spalash
       author_profile: true
-      classes: wide .  ## added
+      #classes: wide .  ## added
   # _teaching
   - scope:
       path: ""
