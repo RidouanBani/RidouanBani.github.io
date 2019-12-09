@@ -18,7 +18,7 @@ conditions including climate change.
 
 
 
->[<span style="color:blue"> ** Metapopulations dynamics, populations fluctuations, and stochastic dispersal ** </span> ](https://ridouanbani.github.io/portfolio/portfolio-1/)
+>[<span style="color:blue"> Metapopulations dynamics, populations fluctuations, and stochastic dispersal </span>](https://ridouanbani.github.io/portfolio/portfolio-1/)
 
 ![](/images/pic1.png){:width="300px"
 style="float: left;margin-left: 0px;margin-top: 0px;"}
@@ -30,7 +30,7 @@ interactions among or/and between species, or/and to dispersal. While, These hyp
 
 
 
->[Climate change and marine metapopulation: The dispersal mediated effects](https://ridouanbani.github.io/portfolio/portfolio-2/)
+>[<span style="color:blue">  Climate change and marine metapopulation: The dispersal mediated effects </span>](https://ridouanbani.github.io/portfolio/portfolio-2/)
 
 
 ![](/images/pic2.png){:width="300px"
@@ -46,7 +46,7 @@ regional dispersal and how they affect stability of marine metapopulations.
 
 
 
-> [Marine protected areas network in a varrying environment: Where, how big and distant?](https://ridouanbani.github.io/portfolio/portfolio-3/)
+> [<span style="color:blue">  Marine protected areas network in a varrying environment: Where, how big and distant? </span>](https://ridouanbani.github.io/portfolio/portfolio-3/)
 
 
 ![](/images/pic3.png){:width="300px"
@@ -60,13 +60,13 @@ Principles for designing marine protected area (MPAs) networks that address soci
 
 Projects concern modeling and time series analysis of some tropical vector-borne diseases such Lymphatic-filariasis (Wichereria bancrofti) and substance abuse such ahcohol and methamphetamine. In general, modeling of complex epidemiological systems is important as we try to understand the mechanisms that shape our environment and to develop reasonable response strategies
 
->[Influence of environmental factors on college alcohol drinking patterns](https://ridouanbani.github.io/portfolio/portfolio-4/)
+>[<span style="color:blue">  Influence of environmental factors on college alcohol drinking patterns </span>](https://ridouanbani.github.io/portfolio/portfolio-4/)
 
->[Methamphetamine Abuse Dynamics in the state of California](https://ridouanbani.github.io/portfolio/portfolio-5/)
+>[<span style="color:blue">  Methamphetamine Abuse Dynamics in the state of California </span>](https://ridouanbani.github.io/portfolio/portfolio-5/)
 
->[Modeling the transmission dynamics and control of lymphatic filariasis in Papua New Guinea](https://ridouanbani.github.io/portfolio/portfolio-6)
+>[<span style="color:blue">  Modeling the transmission dynamics and control of lymphatic filariasis in Papua New Guinea </span>](https://ridouanbani.github.io/portfolio/portfolio-6)
 
->[Burden of Chlamydia in the United States: Trend Analysis of Incidence Rates ](https://ridouanbani.github.io/portfolio/portfolio-7/)
+>[<span style="color:blue">  Burden of Chlamydia in the United States: Trend Analysis of Incidence Rates </span>](https://ridouanbani.github.io/portfolio/portfolio-7/)
 
 
 
