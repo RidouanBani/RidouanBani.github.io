@@ -27,6 +27,8 @@ Fluctuating connectivity may not be the only mechanism behind populations'fluctu
 Three major hypothesis link pattern of population' fluctuations to fluctuating environmental conditions, 
 interactions among or/and between species, or/and to dispersal. While, These hypothesis have been studied alone or in pairs in order to understand contribution of each to population’ fluctuations.  I study the effects of varying environmental conditions on dispersal, and how it affects metapopulation dynamics when considering species interactions. 
 
+
+
 >[Climate change and marine metapopulation: The dispersal mediated effects](https://ridouanbani.github.io/portfolio/portfolio-2/)
 
 ![](/images/pic2.png){:width="300px"
@@ -37,6 +39,8 @@ pelagic phase, are subjected to effects that modify pelagic features such as lar
 as well as ocean currents. In this project, I considered the indirect effects of both abiotic ocean currents and 
 temperature-prone larval duration to investigate the combined effects of climate change on both local mortality and 
 regional dispersal and how they affect stability of marine metapopulations.
+
+
 
 > [Marine protected areas network in a varrying environment: Where, how big and distant?](https://ridouanbani.github.io/portfolio/portfolio-3/)
 
