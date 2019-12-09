@@ -24,16 +24,16 @@ conditions including climate change.
 style="float: left;margin-left: 0px;margin-top: 0px;"}
 
 Fluctuating connectivity may not be the only mechanism behind populations'fluctuations. 
-Three major hypothesis link pattern of population's fluctuations to fluctuating environmental conditions, 
-interactions among or between species, or/and to dispersal. While, These hypothesis have been studied alone or in pairs in order to understand the mechanisms and contribution of each to population’s fluctuations. I revisit the paradigm of population's fluctuations using a different prospective, I study the effects of varying environmental conditions on dispersal, and how it affect metapopulation dynamics when considering species interactions. 
+Three major hypothesis link pattern of population' fluctuations to fluctuating environmental conditions, 
+interactions among or/and between species, or/and to dispersal. While, These hypothesis have been studied alone or in pairs in order to understand contribution of each to population’ fluctuations.  I study the effects of varying environmental conditions on dispersal, and how it affects metapopulation dynamics when considering species interactions. 
 
 >[Climate change and marine metapopulation: The dispersal mediated effects](https://ridouanbani.github.io/portfolio/portfolio-2/)
 
 ![](/images/pic2.png){:width="300px"
 style="float: right;margin-left: 0px;margin-top: 0px;"}
 
-With ongoing rapid climate change, marine species with bipartite life cycle; a sedentary adult phase and larval 
-pelagic phase, are subjected to effects that increase adult mortality, modify pelagic features such as larval duration 
+With ongoing climate change, marine species with bipartite life cycle; a sedentary adult phase and larval 
+pelagic phase, are subjected to effects that modify pelagic features such as larval duration 
 as well as ocean currents. In this project, I considered the indirect effects of both abiotic ocean currents and 
 temperature-prone larval duration to investigate the combined effects of climate change on both local mortality and 
 regional dispersal and how they affect stability of marine metapopulations.
@@ -43,7 +43,7 @@ regional dispersal and how they affect stability of marine metapopulations.
 ![](/images/pic3.png){:width="300px"
 style="float: left;margin-left: 0px;margin-top: 0px;"}
 
-Principles for designing marine protected area networks that address social, economic, and biological criteria are well studied in the scientific literature. However, variability of environmental conditions and climate change represents a new and challenging issues to marine ecosystems functioning and stability. I revisit the problem of size and spacing in MPAs network using stochastic mathematical models.
+Principles for designing marine protected area (MPAs) networks that address social, economic, and biological criteria are well studied in the scientific literature. However, variability of environmental conditions and climate change represents a new and challenging issue to marine ecosystems functioning and stability. I revisit the problem of size and spacing in MPAs network using stochastic mathematical frameworks.
 
 
 **Past Projects**:
