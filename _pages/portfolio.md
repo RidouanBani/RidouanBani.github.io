@@ -40,6 +40,10 @@ as well as ocean currents. In this project, I considered the indirect effects of
 temperature-prone larval duration to investigate the combined effects of climate change on both local mortality and 
 regional dispersal and how they affect stability of marine metapopulations.
 
+.
+
+
+.
 
 
 > [Marine protected areas network in a varrying environment: Where, how big and distant?](https://ridouanbani.github.io/portfolio/portfolio-3/)
