@@ -43,7 +43,7 @@ temperature-prone larval duration to investigate the combined effects of climate
 regional dispersal and how they affect stability of marine metapopulations.
 
 
----
+----------------------- ------------------------------------
 
 > [<span style="color:blue">  Marine protected areas network in a varrying environment: Where, how big and distant? </span>](https://ridouanbani.github.io/portfolio/portfolio-3/)
 
@@ -54,7 +54,7 @@ style="float: left;margin-left: 0px;margin-top: 0px;"}
 
 Principles for designing marine protected area (MPAs) networks that address social, economic, and biological criteria are well studied in the scientific literature. However, variability of environmental conditions and climate change represents a new and challenging issue to marine ecosystems functioning and stability. I revisit the problem of size and spacing in MPAs network using stochastic mathematical frameworks.
 
----
+----------------------- ------------------------------------
 **Past Projects**:
 
 Projects concern modeling and time series analysis of some tropical vector-borne diseases such Lymphatic-filariasis (Wichereria bancrofti) and substance abuse such ahcohol and methamphetamine. In general, modeling of complex epidemiological systems is important as we try to understand the mechanisms that shape our environment and to develop reasonable response strategies
