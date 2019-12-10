@@ -17,7 +17,7 @@ conditions including climate change.
 
 
 
-
+--
 >[<span style="color:blue"> Metapopulations dynamics, populations fluctuations, and stochastic dispersal </span>](https://ridouanbani.github.io/portfolio/portfolio-1/)
 
 ![](/images/pic1.png){:width="300px"
@@ -28,7 +28,7 @@ Fluctuating connectivity may not be the only mechanism behind populations'fluctu
 Three major hypothesis link pattern of population' fluctuations to fluctuating environmental conditions, 
 interactions among or/and between species, or/and to dispersal. While, These hypothesis have been studied alone or in pairs in order to understand contribution of each to population’ fluctuations.  I study the effects of varying environmental conditions on dispersal, and how it affects metapopulation dynamics when considering species interactions. 
 
-
+--
 
 >[<span style="color:blue">  Climate change and marine metapopulation: The dispersal mediated effects </span>](https://ridouanbani.github.io/portfolio/portfolio-2/)
 
@@ -44,7 +44,7 @@ temperature-prone larval duration to investigate the combined effects of climate
 regional dispersal and how they affect stability of marine metapopulations.
 
 
-
+--
 
 > [<span style="color:blue">  Marine protected areas network in a varrying environment: Where, how big and distant? </span>](https://ridouanbani.github.io/portfolio/portfolio-3/)
 
@@ -55,7 +55,7 @@ style="float: left;margin-left: 0px;margin-top: 0px;"}
 
 Principles for designing marine protected area (MPAs) networks that address social, economic, and biological criteria are well studied in the scientific literature. However, variability of environmental conditions and climate change represents a new and challenging issue to marine ecosystems functioning and stability. I revisit the problem of size and spacing in MPAs network using stochastic mathematical frameworks.
 
-
+--
 **Past Projects**:
 
 Projects concern modeling and time series analysis of some tropical vector-borne diseases such Lymphatic-filariasis (Wichereria bancrofti) and substance abuse such ahcohol and methamphetamine. In general, modeling of complex epidemiological systems is important as we try to understand the mechanisms that shape our environment and to develop reasonable response strategies
