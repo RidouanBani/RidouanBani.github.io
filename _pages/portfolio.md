@@ -15,9 +15,8 @@ interactions between species pelagic traits and physical ocean currents, the dif
 change can affect such interactions, and proposes a new framework for marine protected areas robust to varying environmental 
 conditions including climate change. 
 
+----------------------- ------------------------------------
 
-
----
 >[<span style="color:blue"> Metapopulations dynamics, populations fluctuations, and stochastic dispersal </span>](https://ridouanbani.github.io/portfolio/portfolio-1/)
 
 ![](/images/pic1.png){:width="300px"
@@ -28,7 +27,7 @@ Fluctuating connectivity may not be the only mechanism behind populations'fluctu
 Three major hypothesis link pattern of population' fluctuations to fluctuating environmental conditions, 
 interactions among or/and between species, or/and to dispersal. While, These hypothesis have been studied alone or in pairs in order to understand contribution of each to population’ fluctuations.  I study the effects of varying environmental conditions on dispersal, and how it affects metapopulation dynamics when considering species interactions. 
 
----
+----------------------- ------------------------------------
 
 >[<span style="color:blue">  Climate change and marine metapopulation: The dispersal mediated effects </span>](https://ridouanbani.github.io/portfolio/portfolio-2/)
 
