@@ -20,7 +20,7 @@ conditions including climate change.
 >[<span style="color:blue"> Metapopulations dynamics, populations fluctuations, and stochastic dispersal </span>](https://ridouanbani.github.io/portfolio/portfolio-1/)
 
 ![](/images/pic1.png){:width="200px"
-style="float: left;margin-left: 0px;margin-top: 0px;"}
+style="float: right;margin-left: 0px;margin-top: 0px;"}
 
 
 Fluctuating connectivity may not be the only mechanism behind populations'fluctuations. 
@@ -49,7 +49,7 @@ regional dispersal and how they affect stability of marine metapopulations.
 
 
 ![](/images/pic3.png){:width="300px"
-style="float: left;margin-left: 0px;margin-top: 0px;"}
+style="float: right;margin-left: 0px;margin-top: 0px;"}
 
 
 Principles for designing marine protected area (MPAs) networks that address social, economic, and biological criteria are well studied in the scientific literature. However, variability of environmental conditions and climate change represents a new and challenging issue to marine ecosystems functioning and stability. I revisit the problem of size and spacing in MPAs network using stochastic mathematical frameworks.
