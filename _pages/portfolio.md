@@ -19,7 +19,7 @@ conditions including climate change.
 
 >[<span style="color:blue"> Metapopulations dynamics, populations fluctuations, and stochastic dispersal </span>](https://ridouanbani.github.io/portfolio/portfolio-1/)
 
-![](/images/pic1.png){:width="200px"
+![](/images/pic1.png){:width="300px"
 style="float: right;margin-left: 0px;margin-top: 0px;"}
 
 
