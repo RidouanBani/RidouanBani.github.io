@@ -7,13 +7,7 @@ author_profile: true
 
 **Ongoing projects**:
 
-Currently working with Prof. Frederic Guichard (McGill University) and Prof. Marie-Josee Fortin (University of Toronto) 
- exploring the role of community structure and dispersal coupling among different habitats affect (1) the emergence of 
-pattern at biogeographic scale and (2) the consequences of these patterns on persistence and stability of coastal populations 
-and communities in fragmented habitats resulting for marine reserve networks. My Ph.D thesis aim to disentangle the complex 
-interactions between species pelagic traits and physical ocean currents, the different pathways throughout which climate 
-change can affect such interactions, and proposes a new framework for marine protected areas robust to varying environmental 
-conditions including climate change. 
+
 
 ----------------------- ------------------------------------
 
