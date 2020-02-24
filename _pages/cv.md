@@ -29,7 +29,7 @@ During my master program at Northeastern Illinois University where I worked with
 
 **2008** *Agrégation de Mathématiques* Ecole Normale Supérieure (ENS) de Marrakech, Marrakech, Maroc.
 
-**2005** *Mathématiques & Physiques* Classes Preparatoires aux Grandes Ecoles d'Ingenieurs (CPGE) de Meknès
+**2005** *Mathématiques & Physiques* Classes Preparatoires aux Grandes Ecoles d'Ingenieurs (CPGE) de Meknès, Meknès, Maroc.
 
 
 
