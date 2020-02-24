@@ -17,9 +17,9 @@ Education
 McGill Univerity, Montreal, Qc, CANADA
 
 
-**Dissertation:** Dynamic connectivity: Consequences of climate change and application to marine protected areas.
+**Dissertation:** Planning matrine protected areas (MPAs): When dispersal traits inteact with ocean currents in a varying environment
  
- The aim of my PhD thesis is to understand the implications of stochastic dispersal on marine metapopulations and its applications to marine protected areas. In general, my thesis involves building realistic mathematical models, analytically derive important metrics, using available biophysical big data and high-power computing machine to test, refine then validate with results
+ The aim of my PhD thesis is to understand the implications of stochastic dispersal on marine metapopulations and its applications to marine protected areas. In general, my thesis involves building realistic mathematical models, analytically derive important metrics, using available biophysical big data and high-power computing machine to test hypothesis about MPAs, refine then validate with results.
  
 **2013** *M.Sc. Applied Mathematics* NorthEasternIllinois University, Chicago, Illinois, USA
 
