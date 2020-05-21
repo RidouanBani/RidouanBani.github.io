@@ -18,7 +18,7 @@ style="float: right;margin-left: 0px;margin-top: 0px;"}
 
 
 
-* E-mail: [ridouan.bani@mail.mcgill.ca](ridouan.bani@mail.mcgill.ca) or [rbani20@gmail.com](rbani20@gmail.com)
+* E-mail: [ridouan.bani(at)mail.mcgill(dot)ca](ridouan.bani@mail.mcgill.ca) or [rbani20(at)gmail(dot)com](rbani20@gmail.com)
 
 * Twitter: [rbani5](http://twitter.com/rbani5)
 * Google Scholar: [author:Ridouan Bani](https://scholar.google.ca/citations?user=WColvYYAAAAJ&hl=en&oi=ao)
