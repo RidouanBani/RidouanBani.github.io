@@ -7,9 +7,10 @@ author_profile: true
 
 **Ongoing projects**:
 
-
+I am a postdoctoral Scholar with the School of Aquatic and Fishery Sciences working in collaboration with Dr. Anndre Punt (School of Aqautic and Fishery Scineces) and Dr. Dan Holland (Northwest Fisheries Science Center). I am working on developing bio-economic models of several West Coast Fisheries (Dungeness crab, salmon, albacore tuna, and pink shrimp) to understand 1) how environmental variability travels through, and is dampened or amplified by, linked social and ecological processes in fisheries systems and 2) how more integrated management can be used to increase resilience and human benefits.
 
 ----------------------- ------------------------------------
+**Past Projects**:
 
 >[<span style="color:blue"> Metapopulations dynamics, populations fluctuations, and stochastic dispersal </span>](https://ridouanbani.github.io/portfolio/portfolio-1/)
 
@@ -49,7 +50,6 @@ style="float: right;margin-left: 0px;margin-top: 0px;"}
 Principles for designing marine protected area (MPAs) networks that address social, economic, and biological criteria are well studied in the scientific literature. However, variability of environmental conditions and climate change represents a new and challenging issue to marine ecosystems functioning and stability. I revisit the problem of size and spacing in MPAs network using stochastic mathematical frameworks.
 
 ----------------------- ------------------------------------
-**Past Projects**:
 
 Projects concern modeling and time series analysis of some tropical vector-borne diseases such Lymphatic-filariasis (Wichereria bancrofti) and substance abuse such ahcohol and methamphetamine. In general, modeling of complex epidemiological systems is important as we try to understand the mechanisms that shape our environment and to develop reasonable response strategies
 
