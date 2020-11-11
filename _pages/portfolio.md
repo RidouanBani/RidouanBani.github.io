@@ -7,7 +7,7 @@ author_profile: true
 
 **Ongoing projects**:
 
-I am a postdoctoral Scholar with the School of Aquatic and Fishery Sciences working in collaboration with Dr. Anndre Punt (School of Aqautic and Fishery Scineces) and Dr. Dan Holland (Northwest Fisheries Science Center). I am working on developing bio-economic models of several West Coast Fisheries (Dungeness crab, salmon, albacore tuna, and pink shrimp) to understand 1) how environmental variability travels through, and is dampened or amplified by, linked social and ecological processes in fisheries systems and 2) how more integrated management can be used to increase resilience and human benefits.
+I am a postdoctoral Scholar with the School of Aquatic and Fishery Sciences working in collaboration with Dr. Andre Punt (School of Aqautic and Fishery Scineces) and Dr. Dan Holland (Northwest Fisheries Science Center). I am working on developing bio-economic models of several West Coast Fisheries (Dungeness crab, salmon, albacore tuna, and pink shrimp) to understand 1) how environmental variability travels through, and is dampened or amplified by, linked social and ecological processes in fisheries systems and 2) how more integrated management can be used to increase resilience and human benefits.
 
 ----------------------- ------------------------------------
 **Past Projects**:
