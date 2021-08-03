@@ -12,7 +12,7 @@ I am a postdoctoral Scholar with the School of Aquatic and Fishery Sciences work
 
 >[<span style="color:blue"> Oceanographic drivers of legal-sized male Dungeness crab in the California Current System </span>](https://ridouanbani.github.io/portfolio/portfolio_01/)
 
-![](/images/fitted.png){:width="300px"
+![](/images/fitted.png){:width="700px"
 style="float: right;margin-left: 0px;margin-top: 0px;"}
 
 I investigated environmental drivers of US West coast legal-sized male Dungeness crab (Cancer magister or Metacarcinus magister) 
