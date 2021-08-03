@@ -9,6 +9,18 @@ author_profile: true
 
 I am a postdoctoral Scholar with the School of Aquatic and Fishery Sciences working in collaboration with Dr. Andre Punt (School of Aqautic and Fishery Scineces) and Dr. Dan Holland (Northwest Fisheries Science Center). I am working on developing bio-economic models of several West Coast Fisheries (Dungeness crab, salmon, albacore tuna, and pink shrimp) to understand 1) how environmental variability travels through, and is dampened or amplified by, linked social and ecological processes in fisheries systems and 2) how more integrated management can be used to increase resilience and human benefits.
 
+
+>[<span style="color:blue"> Metapopulations dynamics, populations fluctuations, and stochastic dispersal </span>](https://ridouanbani.github.io/portfolio/portfolio-1/)
+
+![](/images/fitted.png){:width="300px"
+style="float: right;margin-left: 0px;margin-top: 0px;"}
+
+
+Fluctuating connectivity may not be the only mechanism behind populations'fluctuations. 
+Three major hypothesis link pattern of population' fluctuations to fluctuating environmental conditions, 
+interactions among or/and between species, or/and to dispersal. While, These hypothesis have been studied alone or in pairs in order to understand contribution of each to population’ fluctuations.  I study the effects of varying environmental conditions on dispersal, and how it affects metapopulation dynamics when considering species interactions. 
+
+
 ----------------------- ------------------------------------
 **Past Projects**:
 
