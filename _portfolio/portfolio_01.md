@@ -7,7 +7,7 @@ collection: Portfolio
 
 
 
-![](/images/fitted_data.pdf){:width="300px"
+![](/images/fitted.png){:width="300px"
 style="float: right;margin-left: 0px;margin-top: 0px;"}
 
 I investigated environmental drivers of US West coast legal-sized male Dungeness crab (Cancer magister or Metacarcinus magister) 
