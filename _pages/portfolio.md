@@ -12,7 +12,7 @@ I am a postdoctoral Scholar with the School of Aquatic and Fishery Sciences work
 
 >[<span style="color:blue"> Metapopulations dynamics, populations fluctuations, and stochastic dispersal </span>](https://ridouanbani.github.io/portfolio/portfolio-1/)
 
-![](/images/fitted.png){:width="300px"
+![](/images/fitted_data.png){:width="300px"
 style="float: right;margin-left: 0px;margin-top: 0px;"}
 
 
