@@ -65,6 +65,7 @@ style="float: right;margin-left: 0px;margin-top: 0px;"}
 Principles for designing marine protected area (MPAs) networks that address social, economic, and biological criteria are well studied in the scientific literature. However, variability of environmental conditions and climate change represents a new and challenging issue to marine ecosystems functioning and stability. I revisit the problem of size and spacing in MPAs network using stochastic mathematical frameworks.
 
 ----------------------- ------------------------------------
+**Old past Projects**:
 
 Projects concern modeling and time series analysis of some tropical vector-borne diseases such Lymphatic-filariasis (Wichereria bancrofti) and substance abuse such ahcohol and methamphetamine. In general, modeling of complex epidemiological systems is important as we try to understand the mechanisms that shape our environment and to develop reasonable response strategies
 
