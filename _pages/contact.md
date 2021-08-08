@@ -2,7 +2,7 @@
 permalink: /contact/
 title: "Contact"
 excerpt: "Contact me"
-modified: 2018-09-09T00:00:13+10:00
+modified: 2021-08-09T00:00:13+10:00
 ---
 
 Contact information for Ridouan Bani.
