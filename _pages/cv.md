@@ -20,9 +20,9 @@ Education
 ======
 **2020** *Ph.D. Biology* McGill University, Montreal, Qc, CANADA
 
-**2013** *M.Sc. Applied Mathematics* NorthEasternIllinois University, Chicago, Illinois, USA
+**2013** *M.Sc. Applied Mathematics* Northeastern Illinois University, Chicago, Illinois, USA
 
-**2012** *B.Sc. Interisciplinary Studies & Mathematics* NorthEasternIllinois University, Chicago, Illinois, USA
+**2012** *B.Sc. Interisciplinary Studies & Mathematics* Northeastern Illinois University, Chicago, Illinois, USA
 
 **2008** *Agrégation de Mathématiques* Ecole Normale Supérieure (ENS) de Marrakech, Marrakech, Maroc.
 
