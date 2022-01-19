@@ -7,23 +7,14 @@ redirect_from:
   - /cv
 ---
 
-{% include base_path %}
+Work Experience
+======
 
-My full CV is available as a [**PDF file**(https://github.com/RidouanBani/RidouanBani.github.io/blob/master/Ridouan_Bani_CV.pdf).
-
+**2020-Present** * Postdoctoral scholar*, School of Aqautic and Fishery sciences University of Washington
 Education
 ======
-**2020** *Ph.D. Biology*
-McGill Univerity, Montreal, Qc, CANADA
-
-
-**Dissertation:** Planning matrine protected areas (MPAs): When dispersal traits inteact with ocean currents in a varying environment
- 
- The aim of my PhD thesis is to understand the implications of stochastic dispersal on marine metapopulations and its applications to marine protected areas. In general, my thesis involves building realistic mathematical models, analytically derive important metrics, using available biophysical big data and high-power computing machine to test hypothesis about MPAs, refine then validate with results.
- 
+**2020** *Ph.D. Biology* McGill Univerity, Montreal, Qc, CANADA
 **2013** *M.Sc. Applied Mathematics* NorthEasternIllinois University, Chicago, Illinois, USA
-
-During my master program at Northeastern Illinois University where I worked with Prof. Anuj Mubayi (Currently Professor of applied mathematics in the school of human Evolution at Arizona State University), I was involved in multiple projects; the goal of these projects is to explore different mathematical and statistical methods used in the modeling of public health problems.
 
 **2012** *B.Sc. Interisciplinary Studies & Mathematics* NorthEasternIllinois University, Chicago, Illinois, USA
 
