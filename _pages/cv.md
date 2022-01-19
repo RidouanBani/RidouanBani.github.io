@@ -13,7 +13,7 @@ My full CV is available as a [**PDF file**(https://github.com/RidouanBani/Ridoua
 
 Education
 ======
-**Present** *Ph.D. Candidate, Biology*
+**2020** *Ph.D. Biology*
 McGill Univerity, Montreal, Qc, CANADA
 
 
