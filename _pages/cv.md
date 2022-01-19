@@ -7,13 +7,19 @@ redirect_from:
   - /cv
 ---
 
+
 Work Experience
 ======
 
-**2020-Present** * Postdoctoral scholar*, School of Aqautic and Fishery sciences University of Washington
+**2020-Present** *Postdoctoral scholar*, School of Aqautic and Fishery sciences University of Washington
+
+
+
+
 Education
 ======
 **2020** *Ph.D. Biology* McGill Univerity, Montreal, Qc, CANADA
+
 **2013** *M.Sc. Applied Mathematics* NorthEasternIllinois University, Chicago, Illinois, USA
 
 **2012** *B.Sc. Interisciplinary Studies & Mathematics* NorthEasternIllinois University, Chicago, Illinois, USA
