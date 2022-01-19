@@ -18,7 +18,7 @@ Work Experience
 
 Education
 ======
-**2020** *Ph.D. Biology* McGill Univerity, Montreal, Qc, CANADA
+**2020** *Ph.D. Biology* McGill University, Montreal, Qc, CANADA
 
 **2013** *M.Sc. Applied Mathematics* NorthEasternIllinois University, Chicago, Illinois, USA
 
