@@ -11,7 +11,7 @@ redirect_from:
 Work Experience
 ======
 
-**2020-Present** *Postdoctoral scholar*, School of Aqautic and Fishery sciences University of Washington
+**2020-Present** *Postdoctoral scholar*, School of Aquatic and Fishery sciences University of Washington
 
 
 
