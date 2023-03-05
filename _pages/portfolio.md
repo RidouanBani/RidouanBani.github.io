@@ -7,7 +7,8 @@ author_profile: true
 
 **Ongoing projects**:
 
-I am a postdoctoral Scholar with the School of Aquatic and Fishery Sciences working in collaboration with Dr. Andre Punt (School of Aqautic and Fishery Scineces) and Dr. Dan Holland (Northwest Fisheries Science Center). I am working on developing bio-economic models of several West Coast Fisheries (Dungeness crab, salmon, albacore tuna, and pink shrimp) to understand 1) how environmental variability travels through, and is dampened or amplified by, linked social and ecological processes in fisheries systems and 2) how more integrated management can be used to increase resilience and human benefits.
+I recently completed a postdoctoral scholar position with School of Aquatic and Fishery Sciences (SAFS), where I collaborated with Dr. Andre Punt, the Director of SAS, and Dr. Dan Holland from NOAA on a project that aimed to develop predictive models for several West Coast fisheries. In this project, I utilized data on ocean temperature and circulation, which are critical drivers of species distribution and behavior. Through analyzing these data sets and constructing models that consider the intricate interplay between environmental variability and species life histories, I was able to generate predictions about the abundance and distribution of Dungeness crab and Pink shrimp across the U.S. West coast. These models can be used by fisheries managers and stakeholders to make more informed decisions concerning the management and conservation of these important species, as well as to better comprehend the broader environmental impacts on marine ecosystems. 
+
 
 
 >[<span style="color:blue"> Oceanographic drivers of legal-sized male Dungeness crab in the California Current System </span>](https://ridouanbani.github.io/portfolio/portfolio_01/)
